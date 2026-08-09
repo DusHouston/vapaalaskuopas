@@ -1,0 +1,15 @@
+{
+  "name": "varustevertailu",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Staattinen vertailusivusto. Ei riippuvuuksia - pyorii pelkalla Nodella.",
+  "scripts": {
+    "build": "node build.mjs",
+    "dev": "node build.mjs --watch --serve",
+    "serve": "node build.mjs --serve"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
