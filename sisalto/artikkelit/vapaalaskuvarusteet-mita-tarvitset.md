@@ -154,13 +154,15 @@ Tärkein sijoitus ei kuitenkaan ole varuste vaan koulutus. Piippari, sonda ja la
 
 ---
 
-## Miten tämä artikkeli on tehty
+## Tietojen ajantasaisuus
 
-Artikkeli perustuu julkaistuun tutkimustietoon lumivyöryonnettomuuksien selviytymistilastoista ja airbag-reppujen vaikuttavuudesta sekä Ilmatieteen laitoksen julkiseen lumivyöryennustepalveluun. Hintaluokat ovat markkinakatsauksen perusteella laadittuja arvioita, eivät yksittäisten tuotteiden hintoja. Emme ole testanneet artikkelissa mainittuja varusteita kenttäolosuhteissa, emmekä esitä yksittäisiä tuotesuosituksia.
+Artikkelin tiedot perustuvat julkaistuun tutkimustietoon, alan standardeihin, viranomaislähteisiin ja valmistajien teknisiin tietoihin. Käytetyt lähteet on listattu alla.
 
-Lumiturvallisuus on aihe, jossa väärä tieto voi olla vaarallista. Jos huomaat artikkelissa virheen, kerro siitä — korjaamme sen nopeasti.
+Hinnat, mallit ja palveluntarjoajien tiedot muuttuvat kausittain. Tarkista ajantasainen tieto ennen ostopäätöstä tai matkaa.
 
-**Tämä artikkeli ei korvaa koulutusta.** Käy lumiturvallisuuskurssi ennen kuin liikut merkittyjen rinteiden ulkopuolella.
+Sivusto on riippumaton eikä ole kaupallisessa yhteistyössä artikkelissa mainittujen toimijoiden kanssa.
+
+**Tämä artikkeli ei korvaa lumiturvallisuuskoulutusta.** Käy lumiturvallisuuskurssi ennen kuin liikut merkittyjen rinteiden ulkopuolella.
 
 ## Lähteet
 

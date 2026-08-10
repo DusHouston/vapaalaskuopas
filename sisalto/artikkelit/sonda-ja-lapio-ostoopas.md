@@ -139,11 +139,15 @@ Ja kuten piipparin kohdalla: varuste ei kaiva puolestasi. Kaivutekniikka on tait
 
 ---
 
-## Miten tämä artikkeli on tehty
+## Tietojen ajantasaisuus
 
-Artikkeli perustuu lumivyörypelastuksen julkaistuun koulutusmateriaaliin sekä valmistajien tuotetietoihin. Emme ole vertailleet yksittäisiä sondia tai lapioita kenttätesteissä, emmekä nimeä yksittäisiä malleja parhaiksi — artikkelin tarkoitus on antaa kriteerit, joilla arvioit tuotteita itse.
+Artikkelin tiedot perustuvat julkaistuun tutkimustietoon, alan standardeihin, viranomaislähteisiin ja valmistajien teknisiin tietoihin. Käytetyt lähteet on listattu alla.
 
-**Tämä artikkeli ei korvaa koulutusta.** Kaivutekniikka opitaan käytännön harjoittelussa, ei lukemalla. Käy lumiturvallisuuskurssi ennen kuin liikut merkittyjen rinteiden ulkopuolella.
+Hinnat, mallit ja palveluntarjoajien tiedot muuttuvat kausittain. Tarkista ajantasainen tieto ennen ostopäätöstä tai matkaa.
+
+Sivusto on riippumaton eikä ole kaupallisessa yhteistyössä artikkelissa mainittujen toimijoiden kanssa.
+
+**Tämä artikkeli ei korvaa lumiturvallisuuskoulutusta.** Käy lumiturvallisuuskurssi ennen kuin liikut merkittyjen rinteiden ulkopuolella.
 
 ## Lähteet
 

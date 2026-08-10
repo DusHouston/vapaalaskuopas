@@ -103,11 +103,15 @@ Ja pidä mielessä se numero, joka yllättää useimmat: **enemmistö onnettomuu
 
 ---
 
-## Miten tämä artikkeli on tehty
+## Tietojen ajantasaisuus
 
-Artikkeli perustuu Ilmatieteen laitoksen julkiseen lumivyöryennustepalveluun, Lumiturvallisuuskeskuksen julkaisemaan vaara-asteikon kuvaukseen sekä European Avalanche Warning Services (EAWS) -järjestön julkaisemaan lumivyöryongelmien luokitukseen. Emme ole ennustepalvelun tuottajia emmekä yhteistyössä mainittujen tahojen kanssa.
+Artikkelin tiedot perustuvat julkaistuun tutkimustietoon, alan standardeihin, viranomaislähteisiin ja valmistajien teknisiin tietoihin. Käytetyt lähteet on listattu alla.
 
-**Tämä artikkeli ei korvaa koulutusta.** Ennusteen soveltaminen maastossa on taito, joka opitaan lumiturvallisuuskurssilla ja käytännön kokemuksella. [Lue kurssivaihtoehdoista](/taidot/lumiturvallisuuskurssit-suomessa/).
+Hinnat, mallit ja palveluntarjoajien tiedot muuttuvat kausittain. Tarkista ajantasainen tieto ennen ostopäätöstä tai matkaa.
+
+Sivusto on riippumaton eikä ole kaupallisessa yhteistyössä artikkelissa mainittujen toimijoiden kanssa.
+
+**Tämä artikkeli ei korvaa lumiturvallisuuskoulutusta.** Käy lumiturvallisuuskurssi ennen kuin liikut merkittyjen rinteiden ulkopuolella.
 
 ## Lähteet
 

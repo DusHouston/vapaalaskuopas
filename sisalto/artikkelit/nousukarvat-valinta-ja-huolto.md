@@ -100,9 +100,15 @@ Lähes kaikki nousukarvaongelmat kentällä palautuvat siihen yhteen asiaan.
 
 ---
 
-## Miten tämä artikkeli on tehty
+## Tietojen ajantasaisuus
 
-Artikkeli perustuu valmistajien tuotetietoihin ja huolto-ohjeisiin sekä yleisesti julkaistuun nousukarvojen käyttö- ja huolto-ohjeistukseen. Emme ole vertailleet yksittäisiä karvamalleja kenttätesteissä emmekä nimeä yksittäisiä tuotteita parhaiksi — artikkelin tarkoitus on antaa kriteerit, joilla arvioit vaihtoehtoja itse. Hintaluokat ovat markkinakatsauksen perusteella laadittuja arvioita.
+Artikkelin tiedot perustuvat julkaistuun tutkimustietoon, alan standardeihin, viranomaislähteisiin ja valmistajien teknisiin tietoihin. Käytetyt lähteet on listattu alla.
+
+Hinnat, mallit ja palveluntarjoajien tiedot muuttuvat kausittain. Tarkista ajantasainen tieto ennen ostopäätöstä tai matkaa.
+
+Sivusto on riippumaton eikä ole kaupallisessa yhteistyössä artikkelissa mainittujen toimijoiden kanssa.
+
+**Tämä artikkeli ei korvaa lumiturvallisuuskoulutusta.** Käy lumiturvallisuuskurssi ennen kuin liikut merkittyjen rinteiden ulkopuolella.
 
 ## Lähteet
 

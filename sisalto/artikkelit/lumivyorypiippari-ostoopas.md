@@ -119,11 +119,15 @@ Se mikä erottaa nopean etsinnän hitaasta, ei ole laite vaan harjoittelu. Sama 
 
 ---
 
-## Miten tämä artikkeli on tehty
+## Tietojen ajantasaisuus
 
-Artikkeli perustuu piipparien julkaistuun tekniseen dokumentaatioon, ETSI EN 300 718 -standardiin sekä valmistajien yleisiin käyttöohjeisiin. Emme ole vertailleet yksittäisiä laitemalleja kenttätesteissä, emmekä siksi nimeä yksittäisiä tuotteita parhaiksi. Artikkelin tarkoitus on antaa sinulle kriteerit, joilla osaat arvioida laitteita itse.
+Artikkelin tiedot perustuvat julkaistuun tutkimustietoon, alan standardeihin, viranomaislähteisiin ja valmistajien teknisiin tietoihin. Käytetyt lähteet on listattu alla.
 
-**Tämä artikkeli ei korvaa koulutusta.** Käy lumiturvallisuuskurssi ennen kuin liikut merkittyjen rinteiden ulkopuolella.
+Hinnat, mallit ja palveluntarjoajien tiedot muuttuvat kausittain. Tarkista ajantasainen tieto ennen ostopäätöstä tai matkaa.
+
+Sivusto on riippumaton eikä ole kaupallisessa yhteistyössä artikkelissa mainittujen toimijoiden kanssa.
+
+**Tämä artikkeli ei korvaa lumiturvallisuuskoulutusta.** Käy lumiturvallisuuskurssi ennen kuin liikut merkittyjen rinteiden ulkopuolella.
 
 ## Lähteet
 

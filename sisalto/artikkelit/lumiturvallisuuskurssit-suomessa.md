@@ -117,11 +117,15 @@ Suhteuta hinta muuhun: kurssi maksaa suunnilleen saman kuin lumivyörypiippari, 
 
 ---
 
-## Miten tämä artikkeli on tehty
+## Tietojen ajantasaisuus
 
-Kurssien tasot, kestot ja hinnat perustuvat järjestäjien julkisiin kurssikuvauksiin kirjoitushetkellä 8/2026. Hinnat muuttuvat kausittain ja vaihtelevat paikkakunnittain, joten tarkista ajantasainen hinta suoraan järjestäjältä. Emme ole itse osallistuneet kaikkiin artikkelissa mainittuihin kursseihin emmekä ole yhteistyössä minkään järjestäjän kanssa — järjestäjät on listattu aakkosjärjestyksessä ilman paremmuusjärjestystä.
+Artikkelin tiedot perustuvat julkaistuun tutkimustietoon, alan standardeihin, viranomaislähteisiin ja valmistajien teknisiin tietoihin. Käytetyt lähteet on listattu alla.
 
-Jos olet järjestäjä ja huomaat tiedoissa virheen, kerro siitä, niin korjaamme sen.
+Hinnat, mallit ja palveluntarjoajien tiedot muuttuvat kausittain. Tarkista ajantasainen tieto ennen ostopäätöstä tai matkaa.
+
+Sivusto on riippumaton eikä ole kaupallisessa yhteistyössä artikkelissa mainittujen toimijoiden kanssa.
+
+**Tämä artikkeli ei korvaa lumiturvallisuuskoulutusta.** Käy lumiturvallisuuskurssi ennen kuin liikut merkittyjen rinteiden ulkopuolella.
 
 ## Lähteet
 

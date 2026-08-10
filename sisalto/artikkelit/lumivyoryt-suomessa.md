@@ -99,11 +99,15 @@ Ja koska vaara on paikallinen, se tarkoittaa myös hyvää uutista: turvallista 
 
 ---
 
-## Miten tämä artikkeli on tehty
+## Tietojen ajantasaisuus
 
-Artikkeli perustuu Ilmatieteen laitoksen lumivyöryennustepalvelun julkisiin tietoihin, Lumiturvallisuuskeskuksen julkaisemaan vyöryjen kokoluokitukseen ja vaara-asteikkoon sekä EAWS:n lumivyöryongelmien luokitukseen. Maastokuvaukset perustuvat julkaistuun aineistoon, emme omiin maastohavaintoihin.
+Artikkelin tiedot perustuvat julkaistuun tutkimustietoon, alan standardeihin, viranomaislähteisiin ja valmistajien teknisiin tietoihin. Käytetyt lähteet on listattu alla.
 
-**Tämä artikkeli ei korvaa koulutusta.** [Lue lumiturvallisuuskursseista](/taidot/lumiturvallisuuskurssit-suomessa/).
+Hinnat, mallit ja palveluntarjoajien tiedot muuttuvat kausittain. Tarkista ajantasainen tieto ennen ostopäätöstä tai matkaa.
+
+Sivusto on riippumaton eikä ole kaupallisessa yhteistyössä artikkelissa mainittujen toimijoiden kanssa.
+
+**Tämä artikkeli ei korvaa lumiturvallisuuskoulutusta.** Käy lumiturvallisuuskurssi ennen kuin liikut merkittyjen rinteiden ulkopuolella.
 
 ## Lähteet
 

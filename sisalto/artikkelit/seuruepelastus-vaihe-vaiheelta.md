@@ -138,11 +138,15 @@ Koko ketjun tavoiteaika on alle kymmenen minuuttia. Se on saavutettavissa harjoi
 
 ---
 
-## Miten tämä artikkeli on tehty
+## Tietojen ajantasaisuus
 
-Artikkeli perustuu julkaistuun lumivyöryonnettomuuksien selviytymistutkimukseen sekä yleisesti opetettuun seuruepelastuksen toimintamalliin. Emme ole lumiturvallisuuskouluttajia, emmekä esitä tätä koulutusmateriaalina — kuvaus on tarkoitettu antamaan yleiskuva siitä, mitä kurssilla opetellaan ja miksi.
+Artikkelin tiedot perustuvat julkaistuun tutkimustietoon, alan standardeihin, viranomaislähteisiin ja valmistajien teknisiin tietoihin. Käytetyt lähteet on listattu alla.
 
-**Tämä artikkeli ei korvaa koulutusta.** Pelastustaito on käytännön taito, jota ei opita lukemalla.
+Hinnat, mallit ja palveluntarjoajien tiedot muuttuvat kausittain. Tarkista ajantasainen tieto ennen ostopäätöstä tai matkaa.
+
+Sivusto on riippumaton eikä ole kaupallisessa yhteistyössä artikkelissa mainittujen toimijoiden kanssa.
+
+**Tämä artikkeli ei korvaa lumiturvallisuuskoulutusta.** Käy lumiturvallisuuskurssi ennen kuin liikut merkittyjen rinteiden ulkopuolella.
 
 ## Lähteet
 

@@ -125,11 +125,15 @@ Ostopäätöksen ratkaisee yksi testi: saatko lapion ulos hanskat kädessä alle
 
 ---
 
-## Miten tämä artikkeli on tehty
+## Tietojen ajantasaisuus
 
-Reppujen ominaisuuksia koskevat tiedot perustuvat valmistajien tuotetietoihin ja yleiseen vapaalaskuvarusteiden ohjeistukseen. Airbag-reppuja koskevat luvut perustuvat julkaistuun tutkimusaineistoon, joka on linkitetty alle. Emme ole vertailleet yksittäisiä reppumalleja kenttätesteissä emmekä nimeä yksittäisiä tuotteita parhaiksi.
+Artikkelin tiedot perustuvat julkaistuun tutkimustietoon, alan standardeihin, viranomaislähteisiin ja valmistajien teknisiin tietoihin. Käytetyt lähteet on listattu alla.
 
-**Tämä artikkeli ei korvaa koulutusta.** Käy lumiturvallisuuskurssi ennen kuin liikut merkittyjen rinteiden ulkopuolella.
+Hinnat, mallit ja palveluntarjoajien tiedot muuttuvat kausittain. Tarkista ajantasainen tieto ennen ostopäätöstä tai matkaa.
+
+Sivusto on riippumaton eikä ole kaupallisessa yhteistyössä artikkelissa mainittujen toimijoiden kanssa.
+
+**Tämä artikkeli ei korvaa lumiturvallisuuskoulutusta.** Käy lumiturvallisuuskurssi ennen kuin liikut merkittyjen rinteiden ulkopuolella.
 
 ## Lähteet
 
