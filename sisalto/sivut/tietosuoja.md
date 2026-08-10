@@ -27,7 +27,7 @@ Vastaamme sähköposteihin yleensä kahden arkipäivän kuluessa.
 
 ### Tekniset lokitiedot
 
-Sivusto on julkaistu Cloudflaren palvelussa. Palvelun toiminnan, suorituskyvyn ja tietoturvan varmistamiseksi Cloudflare käsittelee teknisiä lokitietoja, joita voivat olla esimerkiksi IP-osoite, selaimen tyyppi, pyydetyn sivun osoite ja pyynnön ajankohta.
+Sivusto on julkaistu ulkopuolisen teknisen palveluntarjoajan alustalla. Palvelun toiminnan, suorituskyvyn ja tietoturvan varmistamiseksi palveluntarjoaja käsittelee teknisiä lokitietoja, joita voivat olla esimerkiksi IP-osoite, selaimen tyyppi, pyydetyn sivun osoite ja pyynnön ajankohta.
 
 Näitä tietoja käsitellään palvelun toimittamiseksi ja väärinkäytösten estämiseksi. Emme yhdistä niitä yksittäiseen henkilöön emmekä käytä niitä profilointiin tai markkinointiin.
 
@@ -49,7 +49,7 @@ Sivustolla **ei ole** kävijäseurantaa, kävijämäärien mittausta, mainosverk
 
 Sivusto itse ei aseta seuranta- tai markkinointievästeitä.
 
-**Välttämättömät evästeet.** Cloudflaren palvelu voi asettaa teknisiä evästeitä, jotka ovat välttämättömiä palvelun toiminnan ja tietoturvan kannalta, esimerkiksi automaattisen liikenteen tunnistamiseksi. Näiden käyttö ei edellytä suostumusta, koska ne ovat palvelun toimittamisen kannalta välttämättömiä.
+**Välttämättömät evästeet.** Sivuston tekninen palveluntarjoaja voi asettaa evästeitä, jotka ovat välttämättömiä palvelun toiminnan ja tietoturvan kannalta, esimerkiksi automaattisen liikenteen tunnistamiseksi. Näiden käyttö ei edellytä suostumusta, koska ne ovat palvelun toimittamisen kannalta välttämättömiä.
 
 **Kumppanuuslinkit.** Sivusto sisältää kumppanuuslinkkejä. Kun klikkaat tällaista linkkiä, siirryt kumppanuusverkoston tai kauppiaan sivustolle, joka voi asettaa omia evästeitään ostoksen kohdistamiseksi.
 
@@ -61,7 +61,9 @@ Lue lisää: [kumppanuuslinkit](/affiliate-linkit/)
 
 Emme myy, vuokraa tai luovuta tietoja kolmansille osapuolille markkinointitarkoituksiin.
 
-Palvelun tuottamiseen osallistuu Cloudflare, joka toimii henkilötietojen käsittelijänä. Palvelun luonteen vuoksi tietoja voidaan käsitellä myös EU- ja ETA-alueen ulkopuolella. Cloudflare on sitoutunut noudattamaan EU:n tietosuojalainsäädännön edellyttämiä siirtomekanismeja.
+Sivuston tekninen palveluntarjoaja toimii henkilötietojen käsittelijänä ja käsittelee tietoja vain palvelun tuottamiseksi. Palvelun luonteen vuoksi tietoja voidaan käsitellä myös EU- ja ETA-alueen ulkopuolella. Siirroissa noudatetaan EU:n tietosuojalainsäädännön edellyttämiä siirtomekanismeja.
+
+Voit pyytää tarkempaa tietoa käytetyistä palveluntarjoajista ottamalla yhteyttä sähköpostitse.
 
 ## Tietojen säilytysaika
 
