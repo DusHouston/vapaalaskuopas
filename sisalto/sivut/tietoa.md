@@ -1,45 +1,61 @@
 ---
 otsikko: Tietoa sivustosta
-kuvaus: Mikä Vapaalaskuopas on, miten artikkelit tehdään ja miten sivusto rahoitetaan.
+kuvaus: Mikä Vapaalaskuopas on, mitä se käsittelee, miten artikkelit tehdään ja miten sivusto rahoitetaan.
 ---
 
-## Mikä tämä sivusto on
+Vapaalaskuopas on suomenkielinen tietosivusto vapaalaskusta. Käsittelemme varusteiden valintaa ja käyttöä, lumiturvallisuutta, lumivyöryjä sekä liikkumista tunturimaastossa.
 
-Vapaalaskuopas on suomenkielinen tietosivusto vapaalaskusta. Käsittelemme varusteiden valintaa ja käyttöä, lumiturvallisuutta, lumivyöryjä ja liikkumista tunturimaastossa.
+## Miksi tämä sivusto on olemassa
 
-Sivusto on tehty siksi, että suomeksi on tarjolla yllättävän vähän perusteellista tietoa lajista. Englanninkielinen materiaali on laadukasta mutta kirjoitettu Alppien olosuhteisiin, ja Suomen tunturit ovat eri ympäristö: matalampia, puuttomia, tuulisia ja pimeitä.
+Suomeksi on tarjolla yllättävän vähän perusteellista tietoa vapaalaskusta. Englanninkielinen materiaali on laadukasta, mutta se on kirjoitettu Alppien olosuhteisiin.
+
+Suomen tunturit ovat eri ympäristö: matalampia, puuttomia, tuulen muokkaamia ja pimeitä. Tuulipatja voi syntyä yhdessä yössä ilman että sataa lainkaan, vaara on paikallinen ja siksi helppo ohittaa huomaamatta, ja apu on kaukana.
+
+Nämä erot ansaitsevat oman sisältönsä. Sitä tämä sivusto tekee.
+
+## Mitä sivusto sisältää
+
+- **Varusteet** — piipparit, sondat, lapiot, reput, nousukarvat. Mitä ostaa, mitä välttää ja mihin rahat kannattaa laittaa
+- **Lumiturvallisuus** — lumivyöryjen synty, vaara-asteikko, ennusteen tulkinta ja seuruepelastus
+- **Taidot ja tekniikka** — varusteiden käyttö, koulutus ja päätöksenteko maastossa
+- **Kohteet Suomessa** — maasto, säännöt, ennustetilanne ja palvelut kohteittain
 
 ## Miten artikkelit tehdään
 
-Kerromme jokaisen artikkelin lopussa avoimesti, mihin sen sisältö perustuu.
+Jokainen artikkeli perustuu tarkistettavissa oleviin lähteisiin: julkaistuun tutkimustietoon, alan standardeihin, viranomaislähteisiin ja valmistajien teknisiin tietoihin. **Lähteet on listattu jokaisen artikkelin lopussa**, jotta voit tarkistaa tiedot itse.
 
-Osa artikkeleista perustuu julkaistuun tutkimustietoon, valmistajien teknisiin tietoihin, standardeihin ja viranomaislähteisiin. Näissä emme väitä testanneemme tuotteita itse, emmekä nimeä yksittäisiä malleja parhaiksi.
+Artikkeleissa kerrotaan hintaluokat euroina eikä piiloteta niitä painikkeiden taakse. Suositukset perustellaan, ja myös tuotteiden heikkoudet kerrotaan.
 
-Kun artikkeli perustuu omaan käyttökokemukseen, sanomme sen suoraan ja kerromme kuinka pitkältä ajalta ja missä olosuhteissa.
+Artikkelit päivitetään, kun tiedot vanhenevat. Päivityspäivä näkyy jokaisen artikkelin alussa.
 
-Emme ota vastaan maksua positiivisista arvioista. Jos saamme tuotteen testiin ilmaiseksi, se mainitaan artikkelissa.
+**Korjaamme virheet nopeasti.** Lumiturvallisuus on aihe, jossa väärällä tiedolla on suurempi merkitys kuin useimmilla aloilla. Jos huomaat artikkelissa virheen tai vanhentuneen tiedon, kerro siitä — korjaamme sen ja merkitsemme muutoksen artikkelin päivitystietoihin.
 
 ## Turvallisuudesta
 
 :::huomio
 **Tämä sivusto ei korvaa koulutusta.** Vapaalasku merkittyjen rinteiden ulkopuolella edellyttää lumiturvallisuuskurssia ja käytännön harjoittelua. Verkkoartikkeli ei anna taitoa toimia lumivyöryonnettomuudessa.
 
-Sivuston tiedot on koottu huolellisesti, mutta vastuu omista päätöksistä maastossa on aina liikkujalla itsellään. Tarkista aina ajantasainen lumivyöryennuste ennen liikkeelle lähtöä.
+Tiedot on koottu huolellisesti, mutta vastuu maastossa tehdyistä päätöksistä on aina liikkujalla itsellään. Tarkista aina ajantasainen lumivyöryennuste ennen liikkeelle lähtöä.
 :::
 
-Virheillä on tässä aiheessa suurempi merkitys kuin useimmilla sivustoilla. Jos huomaat artikkelissa virheen tai vanhentuneen tiedon, kerro siitä — korjaamme sen nopeasti ja merkitsemme muutoksen artikkelin päivitystietoihin.
+## Riippumattomuus ja rahoitus
 
-## Miten sivusto rahoitetaan
+Sivusto rahoitetaan kumppanuuslinkeillä. Kun ostat linkin kautta, saamme kauppiaalta pienen palkkion ilman lisäkustannusta sinulle.
 
-Sivusto rahoitetaan kumppanuuslinkeillä. Kun ostat linkin kautta, saamme pienen palkkion kauppiaalta ilman lisäkustannusta sinulle. Palkkio ei vaikuta siihen, mitä suosittelemme.
+Palkkio ei vaikuta siihen, mitä suosittelemme. Emme ota vastaan maksua positiivisista arvioista emmekä ole kaupallisessa yhteistyössä artikkeleissa mainittujen toimijoiden kanssa.
 
-Lue lisää: [kumppanuuslinkit](/affiliate-linkit/)
+Lue tarkemmin: [kumppanuuslinkit](/affiliate-linkit/)
 
 ## Hyödyllisiä lähteitä
 
-- [Ilmatieteen laitoksen lumivyöryennuste](https://www.ilmatieteenlaitos.fi/lumivyoryennuste) — päivittyy kello 16 mennessä, kattaa kuusi tunturialuetta
+- [Ilmatieteen laitoksen lumivyöryennuste](https://www.ilmatieteenlaitos.fi/lumivyoryennuste) — päivittyy klo 16 mennessä, kattaa kuusi tunturialuetta
 - [Lumiturvallisuuskeskus](https://lumiturvallisuuskeskus.fi/) — koulutukset ja lumivyörytieto
+- [Ski Patrol Ylläksen paikallinen ennuste](https://ski.yllas.fi/rinteet-ja-hissit/lumivyoryennuste/) — tarkennettu ennuste Ylläksen alueelle
 
 ## Yhteystiedot
 
-Palautetta, korjauksia ja yhteistyöehdotuksia voi lähettää sähköpostilla.
+Palaute, korjaukset, kysymykset ja yhteistyöehdotukset:
+
+**info@vapaalaskuopas.fi**
+
+Vastaamme sähköposteihin yleensä kahden arkipäivän kuluessa.
