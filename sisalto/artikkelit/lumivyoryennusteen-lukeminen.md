@@ -45,6 +45,12 @@ Viisiportainen eurooppalainen asteikko:
 | 4 | Suuri | Sekä luonnollinen että ihmisen laukaisema todennäköistä, laajoilla alueilla |
 | 5 | Erittäin suuri | Suuria vyöryjä laajoilla alueilla. Vyörymaastoa vältettävä kokonaan |
 
+:::kuva
+tiedosto: vaara-asteikko.svg
+alt: Viisiportainen vaara-asteikko tasoineen 1 vähäinen, 2 kohtalainen, 3 merkittävä, 4 suuri ja 5 erittäin suuri.
+teksti: Asteikko ei ole lineaarinen. Ero tasojen 2 ja 3 välillä on suurempi kuin ero tasojen 1 ja 2 välillä.
+:::
+
 **Asteikko ei ole lineaarinen.** Riski ei kasva tasaisesti tasolta toiselle vaan jyrkästi. Ero tasojen 2 ja 3 välillä on huomattavasti suurempi kuin ero tasojen 1 ja 2 välillä.
 
 :::huomio
@@ -70,6 +76,12 @@ Lumivyöryongelma kertoo **millainen** vaara on ja **missä** se sijaitsee — m
 **Märkä lumi.** Sulamisvesi tai vesisade heikentää hankea. Riippuu voimakkaasti auringosta ja kellonajasta. Helppo tunnistaa: lumi pallottuu, jalka uppoaa syvälle, pieniä vyöryjä lähtee itsestään. Ratkaisu on ajoitus — liiku aamulla pakkasyön jälkeen ja lopeta ennen kuin päivä lämpiää.
 
 **Liukuva lumi.** Koko hanki liukuu sileää maanpintaa vasten. Tunnistat halkeamista, mutta laukeamishetkeä **ei voi ennustaa käytännössä lainkaan**. Ainoa keino on olla oleskelematta halkeamien alapuolella.
+
+:::kuva
+tiedosto: lumivyoryongelmat.svg
+alt: Viisi lumivyöryongelmaa rinteen poikkileikkauksina: uusi lumi, tuulipatja, pysyvä heikko kerros, märkä lumi ja liukuva lumi.
+teksti: Ennuste nimeää aina ongelman ja sen sijainnin. Se on numeroa hyödyllisempi tieto.
+:::
 
 ### 3. Sanallinen kuvaus ja kehitys
 

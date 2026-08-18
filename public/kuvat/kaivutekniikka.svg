@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 356" width="100%" role="img" aria-labelledby="t d">
+  <title id="t">Lumivyöryuhrin kaivaminen: oikea ja väärä tekniikka</title>
+  <desc id="d">Vasemmalla oikea tapa: kaivaminen aloitetaan alarinteen puolelta ja edetään vaakasuorana käytävänä uhria kohti. Oikealla väärä tapa: suoraan uhrin päälle kaivettu kuoppa täyttyy lumesta.</desc>
+  <style>
+    .s  { font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+    .ink   { fill: #131c22; }
+    .muted { fill: #586771; }
+    .grid  { stroke: #dbe3e9; }
+    .axis  { stroke: #b9c4cc; }
+    .brand { stroke: #0b4a6f; }
+    .brandf{ fill: #0b4a6f; }
+    .band  { fill: #0b4a6f; opacity: .06; }
+    .card  { fill: #ffffff; stroke: #dbe3e9; }
+    .snow  { fill: #cfe0ea; }
+    .snow2 { fill: #aec8d6; }
+    .ground{ fill: #8fa3ad; }
+    .good  { fill: #1a7a3c; }
+    .bad   { fill: #b3261e; }
+    .goods { stroke: #1a7a3c; }
+    .bads  { stroke: #b3261e; }
+    .hair  { stroke: rgba(11,11,11,.22); }
+    @media (prefers-color-scheme: dark) {
+      .ink   { fill: #e6edf2; }
+      .muted { fill: #94a5b1; }
+      .grid  { stroke: #26333b; }
+      .axis  { stroke: #3a4a55; }
+      .brand { stroke: #7cc7ee; }
+      .brandf{ fill: #7cc7ee; }
+      .band  { fill: #7cc7ee; opacity: .10; }
+      .card  { fill: #1a242b; stroke: #2c3a44; }
+      .snow  { fill: #33454f; }
+      .snow2 { fill: #47606d; }
+      .ground{ fill: #5a6d78; }
+      .good  { fill: #6ec27f; }
+      .bad   { fill: #ef7a72; }
+      .goods { stroke: #6ec27f; }
+      .bads  { stroke: #ef7a72; }
+      .hair  { stroke: rgba(255,255,255,.28); }
+    }
+  </style>
+
+  <g class="s">
+    <defs><marker id="nuoli-g" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" class="good"/></marker><marker id="nuoli-b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" class="bad"/></marker><style>.goodf{fill:#1a7a3c}.badf{fill:#b3261e}@media (prefers-color-scheme: dark){.goodf{fill:#6ec27f}.badf{fill:#ef7a72}}</style></defs>
+    <text class="good" x="0" y="18" font-size="13" font-weight="700">OIKEIN</text>
+    <text class="ink" x="0" y="40" font-size="15" font-weight="600">Kaivaminen sivusta</text>
+    <path class="snow" d="M0,250 L0,100 C90,58 200,76 356,64 L356,250 Z"/>
+    <rect class="ground" x="0" y="250" width="356" height="14"/>
+    <ellipse class="snow2" cx="232" cy="196" rx="30" ry="17"/>
+    <text class="ink" x="232" y="201" font-size="12" font-weight="700" text-anchor="middle">uhri</text>
+    <path class="goodf" d="M70,222 L206,222 L206,176 L70,192 Z" opacity=".38"/>
+    <path class="goods" d="M70,206 L198,198" stroke-width="2.5" marker-end="url(#nuoli-g)"/>
+    <text class="ink" x="16" y="292" font-size="12.5">Aloita alempaa ja kaiva vaakasuoraan</text>
+    <text class="ink" x="16" y="310" font-size="12.5">— lunta voi työntää alarinteeseen.</text>
+    <text class="bad" x="404" y="18" font-size="13" font-weight="700">VÄÄRIN</text>
+    <text class="ink" x="404" y="40" font-size="15" font-weight="600">Kaivaminen suoraan alas</text>
+    <path class="snow" d="M404,250 L404,100 C494,58 604,76 760,64 L760,250 Z"/>
+    <rect class="ground" x="404" y="250" width="356" height="14"/>
+    <ellipse class="snow2" cx="636" cy="196" rx="30" ry="17"/>
+    <text class="ink" x="636" y="201" font-size="12" font-weight="700" text-anchor="middle">uhri</text>
+    <path class="badf" d="M596,72 L676,68 L662,178 L610,178 Z" opacity=".38"/>
+    <path class="bads" d="M636,88 L636,170" stroke-width="2.5" marker-end="url(#nuoli-b)"/>
+    <text class="ink" x="420" y="292" font-size="12.5">Kuoppa täyttyy lumesta eikä uhria</text>
+    <text class="ink" x="420" y="310" font-size="12.5">saa nostettua pohjalta.</text>
+  </g>
+</svg>

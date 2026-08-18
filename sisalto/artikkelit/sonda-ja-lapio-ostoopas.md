@@ -40,6 +40,12 @@ Oikea tapa on aloittaa alarinteen puolelta noin syvyyden verran alempaa ja kaiva
 
 Jätä sonda paikalleen lumeen, kun se on osunut. Se on merkki kaivupaikasta.
 
+:::kuva
+tiedosto: kaivutekniikka.svg
+alt: Vasemmalla oikea kaivutapa alarinteen puolelta vaakasuorana käytävänä, oikealla väärä tapa suoraan uhrin päälle.
+teksti: Sondan kertoma syvyys määrää, mistä kaivaminen aloitetaan. Väärästä kohdasta aloitettu kaivuu maksaa minuutteja.
+:::
+
 ## Sondan valinta
 
 ### Pituus

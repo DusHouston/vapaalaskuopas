@@ -27,6 +27,12 @@ Tutkimusaineiston mukaan ensimmäisen kymmenen minuutin aikana selviytymistodenn
 
 Ratkaiseva luku on tämä: **seurueen suorittamassa pelastuksessa uhri saadaan esiin keskimäärin kymmenessä minuutissa, kun organisoidun pelastuspalvelun saapumiseen kuluu keskimäärin noin 90 minuuttia.**
 
+:::kuva
+tiedosto: selviytymiskayra.svg
+alt: Käyrä laskee noin 90 prosentista jyrkästi 10 ja 30 minuutin välillä.
+teksti: Aika on lumivyöryonnettomuudessa ainoa muuttuja, johon voit vaikuttaa.
+:::
+
 Tästä seuraa koko vapaalaskun turvallisuusajattelun perusta. Apu ei tule ulkopuolelta. Se tulee siltä, joka laskee kanssasi — tai ei tule lainkaan. Siksi jokaisella seurueen jäsenellä on oltava varusteet ja taito käyttää niitä. Yksi varusteeton henkilö ryhmässä tarkoittaa, ettei häntä voida etsiä, ja ettei hän voi etsiä muita.
 
 ## Kolme välttämätöntä varustetta

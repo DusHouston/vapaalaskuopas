@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 430" width="100%" role="img" aria-labelledby="t d">
+  <title id="t">Lumivyöryyn hautautuneen selviytymistodennäköisyys ajan funktiona</title>
+  <desc id="d">Käyrä laskee noin 90 prosentista jyrkästi 10 ja 30 minuutin välillä ja tasaantuu sen jälkeen. Seurue ehtii pelastamaan keskimäärin 10 minuutissa, organisoitu pelastuspalvelu noin 90 minuutissa.</desc>
+  <style>
+    .s  { font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+    .ink   { fill: #131c22; }
+    .muted { fill: #586771; }
+    .grid  { stroke: #dbe3e9; }
+    .axis  { stroke: #b9c4cc; }
+    .brand { stroke: #0b4a6f; }
+    .brandf{ fill: #0b4a6f; }
+    .band  { fill: #0b4a6f; opacity: .06; }
+    .card  { fill: #ffffff; stroke: #dbe3e9; }
+    .snow  { fill: #cfe0ea; }
+    .snow2 { fill: #aec8d6; }
+    .ground{ fill: #8fa3ad; }
+    .good  { fill: #1a7a3c; }
+    .bad   { fill: #b3261e; }
+    .goods { stroke: #1a7a3c; }
+    .bads  { stroke: #b3261e; }
+    .hair  { stroke: rgba(11,11,11,.22); }
+    @media (prefers-color-scheme: dark) {
+      .ink   { fill: #e6edf2; }
+      .muted { fill: #94a5b1; }
+      .grid  { stroke: #26333b; }
+      .axis  { stroke: #3a4a55; }
+      .brand { stroke: #7cc7ee; }
+      .brandf{ fill: #7cc7ee; }
+      .band  { fill: #7cc7ee; opacity: .10; }
+      .card  { fill: #1a242b; stroke: #2c3a44; }
+      .snow  { fill: #33454f; }
+      .snow2 { fill: #47606d; }
+      .ground{ fill: #5a6d78; }
+      .good  { fill: #6ec27f; }
+      .bad   { fill: #ef7a72; }
+      .goods { stroke: #6ec27f; }
+      .bads  { stroke: #ef7a72; }
+      .hair  { stroke: rgba(255,255,255,.28); }
+    }
+  </style>
+
+  <g class="s">
+    <rect class="band" x="76.0" y="30" width="54.2" height="270"/>
+    <rect class="band" x="238.5" y="30" width="325.0" height="270"/>
+    <line class="grid" x1="76" y1="300.0" x2="726" y2="300.0" stroke-width="1"/>
+    <text class="muted" x="64" y="304.0" font-size="13" text-anchor="end">0 %</text>
+    <line class="grid" x1="76" y1="232.5" x2="726" y2="232.5" stroke-width="1"/>
+    <text class="muted" x="64" y="236.5" font-size="13" text-anchor="end">25 %</text>
+    <line class="grid" x1="76" y1="165.0" x2="726" y2="165.0" stroke-width="1"/>
+    <text class="muted" x="64" y="169.0" font-size="13" text-anchor="end">50 %</text>
+    <line class="grid" x1="76" y1="97.5" x2="726" y2="97.5" stroke-width="1"/>
+    <text class="muted" x="64" y="101.5" font-size="13" text-anchor="end">75 %</text>
+    <line class="grid" x1="76" y1="30.0" x2="726" y2="30.0" stroke-width="1"/>
+    <text class="muted" x="64" y="34.0" font-size="13" text-anchor="end">100 %</text>
+    <line class="axis" x1="76" y1="300" x2="726" y2="300" stroke-width="1.5"/>
+    <line class="axis" x1="76.0" y1="300" x2="76.0" y2="306" stroke-width="1.5"/>
+    <text class="muted" x="76.0" y="324" font-size="13" text-anchor="middle">0</text>
+    <line class="axis" x1="130.2" y1="300" x2="130.2" y2="306" stroke-width="1.5"/>
+    <text class="muted" x="130.2" y="324" font-size="13" text-anchor="middle">10</text>
+    <line class="axis" x1="238.5" y1="300" x2="238.5" y2="306" stroke-width="1.5"/>
+    <text class="muted" x="238.5" y="324" font-size="13" text-anchor="middle">30</text>
+    <line class="axis" x1="401.0" y1="300" x2="401.0" y2="306" stroke-width="1.5"/>
+    <text class="muted" x="401.0" y="324" font-size="13" text-anchor="middle">60</text>
+    <line class="axis" x1="563.5" y1="300" x2="563.5" y2="306" stroke-width="1.5"/>
+    <text class="muted" x="563.5" y="324" font-size="13" text-anchor="middle">90</text>
+    <line class="axis" x1="726.0" y1="300" x2="726.0" y2="306" stroke-width="1.5"/>
+    <text class="muted" x="726.0" y="324" font-size="13" text-anchor="middle">120</text>
+    <text class="muted" x="401" y="348" font-size="13" text-anchor="middle">minuuttia hautautumisesta</text>
+    <rect class="band" x="117" y="358" width="11" height="11" rx="3"/>
+    <text class="muted" x="134" y="367" font-size="12">Selviytymisvaihe</text>
+    <rect class="band" x="261" y="358" width="11" height="11" rx="3"/>
+    <text class="muted" x="278" y="367" font-size="12">Tukehtumisvaihe</text>
+    <rect class="band" x="398" y="358" width="11" height="11" rx="3"/>
+    <text class="muted" x="415" y="367" font-size="12">Latenssivaihe</text>
+    <rect class="band" x="522" y="358" width="11" height="11" rx="3"/>
+    <text class="muted" x="539" y="367" font-size="12">Pitkä hautautuminen</text>
+    <path class="brand" d="M76.0,51.6 L103.1,51.6 L130.2,57.0 L146.4,78.6 L162.7,116.4 L184.3,159.6 L206.0,189.3 L227.7,208.2 L249.3,219.0 L292.7,224.4 L373.9,229.8 L455.2,232.5 L563.5,235.2 L617.7,251.4 L671.8,264.9 L726.0,275.7" fill="none" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+    <circle class="brandf" cx="130.2" cy="57.0" r="5"/>
+    <text class="ink" x="144.2" y="79.0" font-size="13" font-weight="600">10 min: n. 90 %</text>
+    <circle class="brandf" cx="238.5" cy="219.0" r="5"/>
+    <text class="ink" x="252.5" y="203.0" font-size="13" font-weight="600">30 min: jyrkkä lasku ohi</text>
+    <line class="goods" x1="130.2" y1="30" x2="130.2" y2="300" stroke-width="1.5" stroke-dasharray="5 4"/>
+    <line class="bads" x1="563.5" y1="30" x2="563.5" y2="300" stroke-width="1.5" stroke-dasharray="5 4"/>
+    <text class="good" x="138.2" y="290" font-size="12.5" font-weight="600">Seurue ehtii tähän</text>
+    <text class="bad" x="555.5" y="290" font-size="12.5" font-weight="600" text-anchor="end">Pelastuspalvelu saapuu</text>
+    <text class="muted" x="76" y="418" font-size="11.5">Kaavio on suuntaa-antava. Käyrän muoto perustuu julkaistuun onnettomuusaineistoon.</text>
+  </g>
+</svg>

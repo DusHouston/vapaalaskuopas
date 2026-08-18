@@ -248,6 +248,34 @@ h3 { font-size: 1.2rem; margin-top: 1.75rem; }
 .arvio-plus { background: color-mix(in srgb, #16a34a 10%, var(--tausta)); border: 1px solid color-mix(in srgb, #16a34a 30%, transparent); }
 .arvio-miinus { background: color-mix(in srgb, #dc2626 8%, var(--tausta)); border: 1px solid color-mix(in srgb, #dc2626 25%, transparent); }
 
+/* --- Kaaviot ja kuvat --- */
+
+.kuva {
+  margin: 2rem 0;
+  padding: 1.25rem;
+  background: var(--tausta-2);
+  border: 1px solid var(--reuna);
+  border-radius: var(--pyoristys);
+}
+.kuva img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 0;
+}
+.kuva figcaption {
+  margin-top: .9rem;
+  padding-top: .8rem;
+  border-top: 1px solid var(--reuna);
+  font-size: .88rem;
+  line-height: 1.5;
+  color: var(--teksti-2);
+}
+
+@media (max-width: 620px) {
+  .kuva { padding: .85rem; margin: 1.5rem 0; }
+}
+
 /* --- Ostonappi --- */
 
 .osto {

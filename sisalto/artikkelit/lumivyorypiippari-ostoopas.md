@@ -32,6 +32,12 @@ Normaalitilassa laite lähettää signaalia. Onnettomuustilanteessa muut kytkev�
 
 Signaali ei etene suoraviivaisesti vaan kaarevia magneettikenttäviivoja pitkin. Tämä selittää, miksi etsittäessä ei kuljeta suoraan kohti uhria vaan kaartaen: laite ohjaa kenttäviivaa pitkin, ja viiva kaartuu. Tämä tuntuu ensimmäisellä harjoituskerralla epäloogiselta, ja juuri siksi harjoittelu on välttämätöntä.
 
+:::kuva
+tiedosto: etsintavaiheet.svg
+alt: Piipparietsinnän neljä vaihetta: signaalinhaku, karkea etsintä, hienoetsintä ja sondaus.
+teksti: Etsintä etenee neljässä vaiheessa. Laite hoitaa kaksi ensimmäistä, sonda kolmannen ja neljännen.
+:::
+
 ## Kolme antennia — miksi tämä on ratkaiseva
 
 Antennien määrä on tärkein tekninen ero piipparien välillä.

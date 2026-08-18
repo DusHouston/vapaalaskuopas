@@ -47,6 +47,12 @@ Tuulipatjan salakavaluus on siinä, että **se syntyy ilman lumisadetta**. Kirka
 
 Käytännössä: jos yöllä on tuullut kovaa, eilinen ennuste ei enää kuvaa tämän päivän tilannetta.
 
+:::kuva
+tiedosto: lumivyoryongelmat.svg
+alt: Viisi lumivyöryongelmaa rinteen poikkileikkauksina.
+teksti: Tuulipatja on Suomessa selvästi yleisin ongelma, koska tunturit ovat puuttomia ja tuulisia.
+:::
+
 ### Vaara on paikallinen
 
 Alpeilla vyörymaasto on ilmeistä — jyrkkiä seinämiä ja laajoja rinteitä. Suomessa vaarallinen kohta voi olla yksittäinen kuru, kaadon reuna tai lyhyt jyrkkä pudotus muuten loivassa maastossa.

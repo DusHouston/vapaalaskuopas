@@ -31,6 +31,12 @@ Selviytymiskäyrä jakautuu vaiheisiin:
 | 30–90 min | Selviytyvät ne, joilla on riittävä ilmatasku |
 | Yli 90 min | Lasku jatkuu hypotermian ja hiilidioksidin kertymisen takia |
 
+:::kuva
+tiedosto: selviytymiskayra.svg
+alt: Käyrä laskee noin 90 prosentista jyrkästi 10 ja 30 minuutin välillä ja tasaantuu sen jälkeen.
+teksti: Selviytymistodennäköisyys romahtaa 10 ja 30 minuutin välillä. Seurue ehtii tähän ikkunaan, organisoitu pelastuspalvelu ei.
+:::
+
 Seurueen suorittamassa pelastuksessa uhri saadaan esiin **keskimäärin kymmenessä minuutissa**. Organisoidun pelastuspalvelun saapumiseen menee **keskimäärin noin 90 minuuttia**.
 
 Näiden kahden luvun vertaaminen käyrään kertoo koko asian. Kun ulkopuolinen apu saapuu, ratkaisu on yleensä jo tapahtunut suuntaan tai toiseen.
@@ -80,6 +86,12 @@ Haravointivälinä käytetään suunnilleen laitteen ilmoittamaa etsintäleveytt
 
 Aloita viimeisen näkymäpisteen alapuolelta — uhri on lähes aina siellä.
 
+:::kuva
+tiedosto: etsintavaiheet.svg
+alt: Piipparietsinnän neljä vaihetta: signaalinhaku, karkea etsintä, hienoetsintä ja sondaus.
+teksti: Neljä vaihetta järjestyksessä. Tavoiteaika koko ketjulle on alle kymmenen minuuttia.
+:::
+
 ## Vaihe 6: Karkea etsintä
 
 Kun signaali löytyy, seuraa laitteen osoittamaa suuntaa. **Kulje kaartaen, älä suoraan** — signaali etenee magneettikenttäviivoja pitkin ja ne kaartuvat. Laite ohjaa sinut oikein, kunhan seuraat sitä etkä omaa käsitystäsi suunnasta.
@@ -107,6 +119,12 @@ Tämä on lähes aina pelastuksen pisin vaihe ja se, jossa tehdään eniten virh
 **Älä kaiva suoraan alaspäin.** Aloita alarinteen puolelta, noin hautautumissyvyyden verran alempaa, ja kaiva vaakasuuntainen käytävä uhria kohti. Näin lunta voi työntää alarinteeseen sen sijaan että se kasautuisi kuoppaan, ja uhri saadaan esiin vaakasuunnassa.
 
 Suoraan päälle kaivettu kuoppa täyttyy lumesta, jota ei ole minne siirtää, ja uhri jää pohjalle asentoon josta häntä ei saa nostettua eikä hengitysteitä avattua.
+
+:::kuva
+tiedosto: kaivutekniikka.svg
+alt: Vasemmalla oikea kaivutapa alarinteen puolelta, oikealla väärä tapa suoraan uhrin päälle.
+teksti: Kaivaminen on lähes aina pelastuksen pisin vaihe ja se, jossa tehdään eniten virheitä.
+:::
 
 **Useamman hengen kaivumuodostelma:** yksi kaivaa kärjessä, muut siirtävät lunta taaksepäin porrastettuna. Vuorotelkaa kärkipaikkaa 3–5 minuutin välein — kaivaminen on rankempaa kuin kukaan ennakoi.
 
