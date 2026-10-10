@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 300" width="100%" role="img" aria-labelledby="t d">
+  <title id="t">Piipparietsinnän neljä vaihetta</title>
+  <desc id="d">Signaalinhaku, karkea etsintä, hienoetsintä ja sondaus lyhyine ohjeineen.</desc>
+  <style>
+    .s  { font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+    .ink   { fill: #131c22; }
+    .muted { fill: #586771; }
+    .grid  { stroke: #dbe3e9; }
+    .axis  { stroke: #b9c4cc; }
+    .brand { stroke: #0b4a6f; }
+    .brandf{ fill: #0b4a6f; }
+    .band  { fill: #0b4a6f; opacity: .06; }
+    .card  { fill: #ffffff; stroke: #dbe3e9; }
+    .snow  { fill: #cfe0ea; }
+    .snow2 { fill: #aec8d6; }
+    .ground{ fill: #8fa3ad; }
+    .good  { fill: #1a7a3c; }
+    .bad   { fill: #b3261e; }
+    .goods { stroke: #1a7a3c; }
+    .bads  { stroke: #b3261e; }
+    .hair  { stroke: rgba(11,11,11,.22); }
+    @media (prefers-color-scheme: dark) {
+      .ink   { fill: #e6edf2; }
+      .muted { fill: #94a5b1; }
+      .grid  { stroke: #26333b; }
+      .axis  { stroke: #3a4a55; }
+      .brand { stroke: #7cc7ee; }
+      .brandf{ fill: #7cc7ee; }
+      .band  { fill: #7cc7ee; opacity: .10; }
+      .card  { fill: #1a242b; stroke: #2c3a44; }
+      .snow  { fill: #33454f; }
+      .snow2 { fill: #47606d; }
+      .ground{ fill: #5a6d78; }
+      .good  { fill: #6ec27f; }
+      .bad   { fill: #ef7a72; }
+      .goods { stroke: #6ec27f; }
+      .bads  { stroke: #ef7a72; }
+      .hair  { stroke: rgba(255,255,255,.28); }
+    }
+  </style>
+
+  <g class="s">
+    <defs><marker id="nk" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" class="brandf"/></marker></defs>
+    <text class="ink" x="0" y="20" font-size="16" font-weight="700">Piipparietsinnän neljä vaihetta</text>
+    <rect class="card" x="0" y="40" width="175" height="200" rx="10" stroke-width="1"/>
+    <path class="brand" d="M24,82 L151,82 M151,82 L151,108 M151,108 L24,108 M24,108 L24,134 M24,134 L151,134" fill="none" stroke-width="2.5" stroke-linecap="round"/>
+    <text class="brandf" x="16" y="164" font-size="13" font-weight="700">VAIHE 1</text>
+    <text class="ink" x="16" y="186" font-size="14.5" font-weight="700">Signaalinhaku</text>
+    <text class="muted" x="16" y="206" font-size="12">Haravoi vyöryaluetta</text>
+    <text class="muted" x="16" y="221" font-size="12">laitteen etsintäleveyden</text>
+    <text class="muted" x="16" y="236" font-size="12">välein.</text>
+    <rect class="card" x="195" y="40" width="175" height="200" rx="10" stroke-width="1"/>
+    <path class="brand" d="M221,136 C265,118 285,84 340,84" fill="none" stroke-width="2.5" stroke-linecap="round" marker-end="url(#nk)"/>
+    <circle class="brandf" cx="344" cy="84" r="4"/>
+    <text class="brandf" x="211" y="164" font-size="13" font-weight="700">VAIHE 2</text>
+    <text class="ink" x="211" y="186" font-size="14.5" font-weight="700">Karkea etsintä</text>
+    <text class="muted" x="211" y="206" font-size="12">Seuraa laitteen suuntaa.</text>
+    <text class="muted" x="211" y="221" font-size="12">Kulje kaartaen, älä</text>
+    <text class="muted" x="211" y="236" font-size="12">suoraan.</text>
+    <rect class="card" x="390" y="40" width="175" height="200" rx="10" stroke-width="1"/>
+    <path class="brand" d="M443.5,108 L511.5,108 M477.5,78 L477.5,138" fill="none" stroke-width="2.5" stroke-linecap="round"/>
+    <circle class="brandf" cx="477.5" cy="108" r="5"/>
+    <text class="brandf" x="406" y="164" font-size="13" font-weight="700">VAIHE 3</text>
+    <text class="ink" x="406" y="186" font-size="14.5" font-weight="700">Hienoetsintä</text>
+    <text class="muted" x="406" y="206" font-size="12">Laite lähelle lunta,</text>
+    <text class="muted" x="406" y="221" font-size="12">ristikuvio, etsi pienin</text>
+    <text class="muted" x="406" y="236" font-size="12">lukema.</text>
+    <rect class="card" x="585" y="40" width="175" height="200" rx="10" stroke-width="1"/>
+    <circle class="brand" cx="672.5" cy="108" r="8" fill="none" stroke-width="2" stroke-dasharray="3 5" opacity="1.00"/>
+    <circle class="brand" cx="672.5" cy="108" r="17" fill="none" stroke-width="2" stroke-dasharray="3 5" opacity="0.82"/>
+    <circle class="brand" cx="672.5" cy="108" r="26" fill="none" stroke-width="2" stroke-dasharray="3 5" opacity="0.64"/>
+    <line class="brand" x1="672.5" y1="74" x2="672.5" y2="142" stroke-width="2.5"/>
+    <text class="brandf" x="601" y="164" font-size="13" font-weight="700">VAIHE 4</text>
+    <text class="ink" x="601" y="186" font-size="14.5" font-weight="700">Sondaus</text>
+    <text class="muted" x="601" y="206" font-size="12">Pistä spiraalina 25 cm</text>
+    <text class="muted" x="601" y="221" font-size="12">välein. Jätä sonda</text>
+    <text class="muted" x="601" y="236" font-size="12">paikalleen.</text>
+    <text class="muted" x="0" y="286" font-size="12.5">Tavoiteaika koko ketjulle alle 10 minuuttia. Se saavutetaan vain harjoittelemalla.</text>
+  </g>
+</svg>

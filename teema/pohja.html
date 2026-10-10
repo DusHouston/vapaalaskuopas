@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="{{kieli}}">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{otsikko}}</title>
+<meta name="description" content="{{kuvaus}}">
+<meta name="theme-color" content="#fbfaf7" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0c1216" media="(prefers-color-scheme: dark)">
+<link rel="canonical" href="{{kanoninen}}">
+{{robots}}
+<meta property="og:type" content="website">
+<meta property="og:title" content="{{otsikko}}">
+<meta property="og:description" content="{{kuvaus}}">
+<meta property="og:url" content="{{kanoninen}}">
+<meta property="og:site_name" content="{{sivustonimi}}">
+<meta property="og:locale" content="fi_FI">
+<meta property="og:image" content="{{sivustourl}}/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="{{sivustonimi}} – {{iskulause}}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="{{sivustourl}}/og.png">
+<link rel="alternate" type="application/rss+xml" title="{{sivustonimi}}" href="/rss.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400..700&family=Inter:wght@400..700&display=swap">
+<link rel="stylesheet" href="/tyylit.css">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+{{jsonld}}
+</head>
+<body>
+
+<a class="ohita" href="#sisalto">Siirry sisältöön</a>
+<div class="edistys" id="edistys" aria-hidden="true"></div>
+
+<header class="ylapalkki">
+  <div class="kaari ylapalkki-sisus">
+    <a class="logo" href="/" aria-label="{{sivustonimi}} – etusivu">
+      <svg width="26" height="26" viewBox="0 0 26 26" fill="none" aria-hidden="true">
+        <path d="M2 20.5 L9 7.5 L13.2 15 L16 10.5 L24 20.5 Z" fill="currentColor" opacity=".18"/>
+        <path d="M2 20.5 L9 7.5 L13.2 15 L16 10.5 L24 20.5" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round" fill="none"/>
+        <path d="M6.6 13.2 L9 11.3 L11.3 13.2" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round" fill="none"/>
+      </svg>
+      {{sivustonimi}}
+    </a>
+    <button class="valikkonappi" aria-label="Valikko" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+    <nav class="navi" aria-label="Päävalikko">
+        {{navi}}
+    </nav>
+  </div>
+</header>
+
+<main id="sisalto" class="kaari">
+{{murupolku}}
+{{sisalto}}
+</main>
+
+<footer class="alapalkki">
+  <div class="kaari">
+    <div class="alapalkki-osiot">
+      <div>
+        <span class="logo">
+          <svg width="24" height="24" viewBox="0 0 26 26" fill="none" aria-hidden="true">
+            <path d="M2 20.5 L9 7.5 L13.2 15 L16 10.5 L24 20.5 Z" fill="currentColor" opacity=".18"/>
+            <path d="M2 20.5 L9 7.5 L13.2 15 L16 10.5 L24 20.5" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round" fill="none"/>
+            <path d="M6.6 13.2 L9 11.3 L11.3 13.2" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round" fill="none"/>
+          </svg>
+          {{sivustonimi}}
+        </span>
+        <p>{{sivustokuvaus}}</p>
+        <a class="alapalkki-posti" href="mailto:{{sahkoposti}}">{{sahkoposti}}</a>
+      </div>
+      <div>
+        <h2>Aiheet</h2>
+        <nav aria-label="Kategoriat">
+          {{navi}}
+        </nav>
+      </div>
+      <div>
+        <h2>Sivusto</h2>
+        <nav aria-label="Alavalikko">
+          <a href="/tietoa/">Tietoa sivustosta</a>
+          <a href="/affiliate-linkit/">Kumppanuuslinkit</a>
+          <a href="/tietosuoja/">Tietosuoja</a>
+          <a href="/rss.xml">RSS-syöte</a>
+        </nav>
+      </div>
+    </div>
+    <p class="copyright">&copy; {{vuosi}} {{sivustonimi}}. Sivusto sisältää kumppanuuslinkkejä. Sisältö ei korvaa lumiturvallisuuskoulutusta.</p>
+  </div>
+</footer>
+
+<script>
+(function () {
+  var nappi = document.querySelector('.valikkonappi');
+  if (nappi) {
+    nappi.addEventListener('click', function () {
+      var auki = document.body.classList.toggle('valikko-auki');
+      this.setAttribute('aria-expanded', auki);
+    });
+  }
+
+  var palkki = document.getElementById('edistys');
+  var artikkeli = document.querySelector('.teksti');
+  if (palkki && artikkeli) {
+    var paivita = function () {
+      var r = artikkeli.getBoundingClientRect();
+      var koko = r.height - window.innerHeight;
+      var kuljettu = koko > 0 ? Math.min(1, Math.max(0, -r.top / koko)) : 0;
+      palkki.style.width = (kuljettu * 100) + '%';
+    };
+    document.addEventListener('scroll', paivita, { passive: true });
+    window.addEventListener('resize', paivita);
+    paivita();
+  }
+
+  var linkit = Array.prototype.slice.call(document.querySelectorAll('.sisallys ol a'));
+  if (linkit.length && 'IntersectionObserver' in window) {
+    var kartta = {};
+    linkit.forEach(function (a) {
+      var kohde = document.getElementById(decodeURIComponent(a.hash.slice(1)));
+      if (kohde) kartta[kohde.id] = a;
+    });
+    var nakyvat = new Set();
+    var tarkkailija = new IntersectionObserver(function (merkinnat) {
+      merkinnat.forEach(function (m) {
+        if (m.isIntersecting) nakyvat.add(m.target.id);
+        else nakyvat.delete(m.target.id);
+      });
+      var jarjestys = Object.keys(kartta);
+      var nyt = jarjestys.filter(function (id) { return nakyvat.has(id); })[0];
+      jarjestys.forEach(function (id) { kartta[id].classList.toggle('nyt', id === nyt); });
+    }, { rootMargin: '-80px 0px -70% 0px' });
+    Object.keys(kartta).forEach(function (id) {
+      var el = document.getElementById(id);
+      if (el) tarkkailija.observe(el);
+    });
+  }
+})();
+</script>
+
+</body>
+</html>

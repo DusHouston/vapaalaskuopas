@@ -1,0 +1,37 @@
+{
+  "nimi": "Vapaalaskuopas",
+  "iskulause": "Varusteet, lumiturvallisuus ja maastossa liikkuminen",
+  "kansiOtsikko": "Vapaalasku alkaa tiedosta, ei varusteista",
+  "url": "https://vapaalaskuopas.fi",
+  "kuvaus": "Suomenkielinen opas vapaalaskuun: varusteiden valinta ja käyttö, lumiturvallisuus, lumivyöryt ja liikkuminen tunturimaastossa.",
+  "kieli": "fi",
+  "tekija": "Vapaalaskuopas",
+  "sahkoposti": "info@vapaalaskuopas.fi",
+  "affiliateIlmoitus": "Tämä sivu sisältää kumppanuuslinkkejä. Jos ostat linkin kautta, saamme pienen palkkion ilman lisäkustannusta sinulle. Se ei vaikuta arvioihimme.",
+  "kategoriat": [
+    {
+      "slug": "varusteet",
+      "nimi": "Varusteet",
+      "kuvaus": "Piipparit, sondat, lapiot, reput, sukset ja splitboardit. Mitä ostaa, mitä välttää ja mihin rahat kannattaa laittaa.",
+      "kuva": "kat-varusteet.jpg"
+    },
+    {
+      "slug": "lumiturvallisuus",
+      "nimi": "Lumiturvallisuus",
+      "kuvaus": "Lumivyöryt, vaara-asteikko, ennusteen lukeminen ja seurueen pelastustoiminta.",
+      "kuva": "kat-lumiturvallisuus.jpg"
+    },
+    {
+      "slug": "taidot",
+      "nimi": "Taidot ja tekniikka",
+      "kuvaus": "Varusteiden käyttö, etsintä ja kaivaminen, nousutekniikka ja reittipäätökset.",
+      "kuva": "kat-taidot.jpg"
+    },
+    {
+      "slug": "kohteet",
+      "nimi": "Kohteet Suomessa",
+      "kuvaus": "Ylläs, Kilpisjärvi, Pallas, Saariselkä ja muut kohteet — maasto, olosuhteet ja mitä kannattaa tietää etukäteen.",
+      "kuva": "kat-kohteet.jpg"
+    }
+  ]
+}

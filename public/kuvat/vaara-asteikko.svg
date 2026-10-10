@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 452" width="100%" role="img" aria-labelledby="t d">
+  <title id="t">Lumivyöryvaaran viisiportainen asteikko</title>
+  <desc id="d">Tasot 1 vähäinen, 2 kohtalainen, 3 merkittävä, 4 suuri ja 5 erittäin suuri kuvauksineen. Suurin osa onnettomuuksista sattuu tasoilla 2 ja 3.</desc>
+  <style>
+    .s  { font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+    .ink   { fill: #131c22; }
+    .muted { fill: #586771; }
+    .grid  { stroke: #dbe3e9; }
+    .axis  { stroke: #b9c4cc; }
+    .brand { stroke: #0b4a6f; }
+    .brandf{ fill: #0b4a6f; }
+    .band  { fill: #0b4a6f; opacity: .06; }
+    .card  { fill: #ffffff; stroke: #dbe3e9; }
+    .snow  { fill: #cfe0ea; }
+    .snow2 { fill: #aec8d6; }
+    .ground{ fill: #8fa3ad; }
+    .good  { fill: #1a7a3c; }
+    .bad   { fill: #b3261e; }
+    .goods { stroke: #1a7a3c; }
+    .bads  { stroke: #b3261e; }
+    .hair  { stroke: rgba(11,11,11,.22); }
+    @media (prefers-color-scheme: dark) {
+      .ink   { fill: #e6edf2; }
+      .muted { fill: #94a5b1; }
+      .grid  { stroke: #26333b; }
+      .axis  { stroke: #3a4a55; }
+      .brand { stroke: #7cc7ee; }
+      .brandf{ fill: #7cc7ee; }
+      .band  { fill: #7cc7ee; opacity: .10; }
+      .card  { fill: #1a242b; stroke: #2c3a44; }
+      .snow  { fill: #33454f; }
+      .snow2 { fill: #47606d; }
+      .ground{ fill: #5a6d78; }
+      .good  { fill: #6ec27f; }
+      .bad   { fill: #ef7a72; }
+      .goods { stroke: #6ec27f; }
+      .bads  { stroke: #ef7a72; }
+      .hair  { stroke: rgba(255,255,255,.28); }
+    }
+  </style>
+
+  <g class="s">
+    <text class="ink" x="0" y="20" font-size="16" font-weight="700">Lumivyöryvaaran asteikko</text>
+    <text class="muted" x="0" y="40" font-size="13">Eurooppalainen viisiportainen asteikko, käytössä myös Suomessa</text>
+    <rect class="hair" x="0" y="56" width="760" height="62" rx="8" fill="#6aa84f" stroke-width="1"/>
+    <text x="26" y="96" font-size="30" font-weight="700" fill="#0b0b0b">1</text>
+    <text x="66" y="83" font-size="16" font-weight="700" fill="#0b0b0b">Vähäinen</text>
+    <text x="66" y="103" font-size="13.5" fill="#0b0b0b" opacity="0.92">Lumivyöryt epätodennäköisiä. Yksittäisiä heikkoja kohtia voi olla.</text>
+    <rect class="hair" x="0" y="126" width="760" height="62" rx="8" fill="#f1c232" stroke-width="1"/>
+    <text x="26" y="166" font-size="30" font-weight="700" fill="#0b0b0b">2</text>
+    <text x="66" y="153" font-size="16" font-weight="700" fill="#0b0b0b">Kohtalainen</text>
+    <text x="66" y="173" font-size="13.5" fill="#0b0b0b" opacity="0.92">Ihmisen laukaisema vyöry mahdollinen rajatuissa paikoissa.</text>
+    <rect class="hair" x="0" y="196" width="760" height="62" rx="8" fill="#e8892b" stroke-width="1"/>
+    <text x="26" y="236" font-size="30" font-weight="700" fill="#0b0b0b">3</text>
+    <text x="66" y="223" font-size="16" font-weight="700" fill="#0b0b0b">Merkittävä</text>
+    <text x="66" y="243" font-size="13.5" fill="#0b0b0b" opacity="0.92">Ihmisen laukaisema vyöry todennäköinen. Luonnollinen mahdollinen.</text>
+    <rect class="hair" x="0" y="266" width="760" height="62" rx="8" fill="#cc2b2b" stroke-width="1"/>
+    <text x="26" y="306" font-size="30" font-weight="700" fill="#ffffff">4</text>
+    <text x="66" y="293" font-size="16" font-weight="700" fill="#ffffff">Suuri</text>
+    <text x="66" y="313" font-size="13.5" fill="#ffffff" opacity="0.92">Vyöryt todennäköisiä laajoilla alueilla.</text>
+    <rect class="hair" x="0" y="336" width="760" height="62" rx="8" fill="#1f1f1f" stroke-width="1"/>
+    <text x="26" y="376" font-size="30" font-weight="700" fill="#ffffff">5</text>
+    <text x="66" y="363" font-size="16" font-weight="700" fill="#ffffff">Erittäin suuri</text>
+    <text x="66" y="383" font-size="13.5" fill="#ffffff" opacity="0.92">Suuria vyöryjä laajalti. Vyörymaastoa vältettävä kokonaan.</text>
+    <text class="ink" x="0" y="424" font-size="13.5" font-weight="600">Suurin osa onnettomuuksista sattuu tasoilla 2 ja 3 — silloin ollaan liikkeellä.</text>
+    <text class="muted" x="0" y="444" font-size="12.5">Asteikko ei ole lineaarinen: riski kasvaa jyrkästi tasolta toiselle.</text>
+  </g>
+</svg>
