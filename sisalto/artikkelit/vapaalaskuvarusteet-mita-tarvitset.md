@@ -132,6 +132,23 @@ Ennusteissa käytetään eurooppalaista viisiportaista vaara-asteikkoa. Suuri os
 
 Perussetin käyttöikä on tyypillisesti 8–10 vuotta, joten vuosikustannus on noin 50 €. Se on vähemmän kuin kahden päivän hissilippu.
 
+## Vaatetus ei ole turvavaruste — mutta se on lähellä
+
+Tämä opas käsittelee turvavarusteita, joiden tehtävä on pelastaa henki lumivyöryssä. Vaatetus on eri kategoria, mutta se ei ole toissijainen: alilämpöisyys on vapaalaskussa todellinen riski aina kun jotain menee pieleen ja joudutte odottamaan paikallaan.
+
+Vaatetuksen kokonaisuus on käsitelty erikseen:
+
+- [Pukeutuminen vapaalaskuun: kerrospukeutuminen joka kestää sekä nousun että laskun](/varusteet/pukeutuminen-vapaalaskuun/) — aloita tästä
+- [Vapaalaskutakki: mitä kuoritakin ominaisuuksista oikeasti kannattaa katsoa](/varusteet/kuoritakki-vapaalaskuun/)
+- [Kuorihousut vai haalari?](/varusteet/kuorihousut-vapaalaskuun/)
+- [Aluskerros: merinovilla, synteettinen vai sekoite](/varusteet/aluskerros-vapaalaskuun/)
+- [Välikerros ja lämpötakki](/varusteet/valikerros-ja-lampotakki/)
+- [Laskettelulasit vapaalaskuun](/varusteet/laskettelulasit-vapaalaskuun/)
+- [Käsineet vapaalaskuun](/varusteet/kasineet-vapaalaskuun/)
+- [Vapaalaskukypärä: EN 1077 ja se mitä standardit eivät testaa](/varusteet/kypara-vapaalaskuun/)
+
+Jos vaatetus on jo kunnossa rinnelaskusta, kaksi asiaa kannattaa silti tarkistaa ennen ensimmäistä nousua: onko takissa kainalovetoketjut ja mahtuuko lämpötakki kuoren päälle. Ne ovat ne kaksi kohtaa, joissa rinnevarustus tyypillisesti pettää vapaalaskussa.
+
 ## Varusteiden ylläpito
 
 **Paristot.** Useimmat valmistajat suosittelevat alkaliparistoja, eivät litiumia, koska litiumin jännitekäyrä tekee varaustason näytöstä epäluotettavan. Vaihda paristot kun varaus laskee alle 40 prosentin. Poista paristot kauden päätteeksi — vuotanut paristo tuhoaa laitteen.
