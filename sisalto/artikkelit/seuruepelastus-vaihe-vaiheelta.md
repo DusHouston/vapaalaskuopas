@@ -146,7 +146,7 @@ Etsintä ja kaivaminen ovat motorisia taitoja, jotka rapistuvat nopeasti ja jotk
 
 **Vähimmäistavoite:** harjoittele piippari- ja kaivuharjoitus kerran kauden alussa. Monissa hiihtokeskuksissa on lumiturvallisuuspuisto, jossa on maahan asennettuja lähettimiä, ja käyttö on yleensä maksutonta.
 
-**Parempi tavoite:** käy lumiturvallisuuskurssi ja kertaa se muutaman vuoden välein. [Lue kurssivaihtoehdoista](/taidot/lumiturvallisuuskurssit-suomessa/).
+**Parempi tavoite:** käy lumiturvallisuuskurssi ja kertaa se muutaman vuoden välein. [Lue kurssivaihtoehdoista](/lumiturvallisuus/lumiturvallisuuskurssit-suomessa/).
 
 ## Yhteenveto
 

@@ -194,7 +194,7 @@ sopii: haluat luotettavan lumivyöryrepun pienemmällä budjetilla etkä lennä 
 
 ### Kannattaako lumivyöryreppu hankkia ennen kurssia?
 
-Ei. Hankintajärjestyksessä ensin tulevat piippari, sonda, lapio ja lumiturvallisuuskoulutus. Lumivyöryreppu vaikuttaa vasta onnettomuuden jälkeen, kun taas koulutus auttaa välttämään onnettomuuden. Suomessa järjestettäviä kursseja esitellään oppaassa [Lumiturvallisuuskurssit Suomessa](/taidot/lumiturvallisuuskurssit-suomessa/).
+Ei. Hankintajärjestyksessä ensin tulevat piippari, sonda, lapio ja lumiturvallisuuskoulutus. Lumivyöryreppu vaikuttaa vasta onnettomuuden jälkeen, kun taas koulutus auttaa välttämään onnettomuuden. Suomessa järjestettäviä kursseja esitellään oppaassa [Lumiturvallisuuskurssit Suomessa](/lumiturvallisuus/lumiturvallisuuskurssit-suomessa/).
 
 ### Onko sähköinen järjestelmä turvallisempi kuin patruuna?
 

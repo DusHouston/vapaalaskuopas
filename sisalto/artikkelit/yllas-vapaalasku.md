@@ -122,7 +122,7 @@ Kauden 2026–2027 aukioloaikoja ei ole vielä julkaistu.
 
 **Kurssit:** Ski Patrol Ylläs järjestää FINLAV-järjestelmän mukaisia lumiturvallisuuskursseja. Kaudella 2025–2026 tarjolla oli neljä Lumiturvallisuus 1 -kurssia hintaan **336 € kahden päivän kurssilta**.
 
-Tämä on merkittävä tieto: kurssi on selvästi alueen edullisimpia, ja sen järjestää sama taho joka tekee paikallisen ennusteen. [Vertaa muihin kurssivaihtoehtoihin](/taidot/lumiturvallisuuskurssit-suomessa/).
+Tämä on merkittävä tieto: kurssi on selvästi alueen edullisimpia, ja sen järjestää sama taho joka tekee paikallisen ennusteen. [Vertaa muihin kurssivaihtoehtoihin](/lumiturvallisuus/lumiturvallisuuskurssit-suomessa/).
 
 ## Kenelle Ylläs sopii
 

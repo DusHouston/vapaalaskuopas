@@ -285,7 +285,7 @@ Samassa aineistossa ilmapussi jäi täyttymättä noin viidesosassa tapauksista,
 
 Varusteista on hyötyä vain, jos niiden käyttö hallitaan. Koko pelastusketjun tavoiteaika on alle kymmenen minuuttia, ja se on saavutettavissa vain harjoitelleelle seurueelle. Piippareiden toiminta tarkistetaan ryhmätestillä joka aamu ennen lähtöä, ja etsintää, sondausta ja kaivamista harjoitellaan säännöllisesti, vähintään kauden alussa.
 
-Lumiturvallisuuskurssi on edellytys rinteiden ulkopuolella liikkumiselle. Suomessa järjestettäviä kursseja esitellään oppaassa [Lumiturvallisuuskurssit Suomessa](/taidot/lumiturvallisuuskurssit-suomessa/). Ennen jokaista retkeä tarkistetaan lumivyöryennuste: [Lumivyöryennusteen lukeminen](/lumiturvallisuus/lumivyoryennusteen-lukeminen/).
+Lumiturvallisuuskurssi on edellytys rinteiden ulkopuolella liikkumiselle. Suomessa järjestettäviä kursseja esitellään oppaassa [Lumiturvallisuuskurssit Suomessa](/lumiturvallisuus/lumiturvallisuuskurssit-suomessa/). Ennen jokaista retkeä tarkistetaan lumivyöryennuste: [Lumivyöryennusteen lukeminen](/lumiturvallisuus/lumivyoryennusteen-lukeminen/).
 
 ## Usein kysyttyä
 

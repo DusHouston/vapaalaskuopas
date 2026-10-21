@@ -125,7 +125,7 @@ Talvi alkaa tyypillisesti lokakuussa ja kestää toukokuulle. Ladut ajetaan helm
 
 **Oppaat.** Alueella toimii useampi opasyritys, muun muassa Lapland Guiding ja Arctic Mountain Guides. Osa vaatii osallistujilta omat lumivyöryvarusteet ja oman vakuutuksen.
 
-**Kurssit.** Kilpisjärvellä järjestetään FINLAV 1 -lumiturvallisuuskursseja. Esimerkiksi Vuoristoretket on ilmoittanut kolmipäiväisen kurssin hintaan 490 €/hlö. [Lue lisää kurssitasoista](/taidot/lumiturvallisuuskurssit-suomessa/).
+**Kurssit.** Kilpisjärvellä järjestetään FINLAV 1 -lumiturvallisuuskursseja. Esimerkiksi Vuoristoretket on ilmoittanut kolmipäiväisen kurssin hintaan 490 €/hlö. [Lue lisää kurssitasoista](/lumiturvallisuus/lumiturvallisuuskurssit-suomessa/).
 
 ## Norjan raja
 

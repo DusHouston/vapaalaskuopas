@@ -165,7 +165,7 @@ Vapaalaskuun riittää EN 1077 luokka B, mieluiten myös ASTM F2040, säädettä
 
 Ja tärkein: **vaihda kypärä merkittävän iskun jälkeen**, vaikka se näyttäisi ehjältä.
 
-Lumivyöryturvallisuudessa kypärä on toissijainen. Lue [Vapaalaskuvarusteet: mitä tarvitset ja missä järjestyksessä ostaa](/varusteet/vapaalaskuvarusteet-mita-tarvitset/) ja [Lumiturvallisuuskurssit Suomessa](/taidot/lumiturvallisuuskurssit-suomessa/).
+Lumivyöryturvallisuudessa kypärä on toissijainen. Lue [Vapaalaskuvarusteet: mitä tarvitset ja missä järjestyksessä ostaa](/varusteet/vapaalaskuvarusteet-mita-tarvitset/) ja [Lumiturvallisuuskurssit Suomessa](/lumiturvallisuus/lumiturvallisuuskurssit-suomessa/).
 
 ---
 

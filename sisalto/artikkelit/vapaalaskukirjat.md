@@ -146,7 +146,7 @@ sopii: haluat laajan kuvauksen myös Italian puolen laskuista.
 
 ## Lumivyörytieto
 
-Reittiopas kertoo, missä lumivyörymaasto on. Lumivyörykirjallisuus opettaa arvioimaan, milloin maastoon voi mennä. Kirjat syventävät kurssilla opittua, mutta eivät korvaa käytännön harjoittelua piipparilla, sondalla ja lapiolla. Kurssivaihtoehdot Suomessa on koottu artikkeliin [lumiturvallisuuskurssit Suomessa](/taidot/lumiturvallisuuskurssit-suomessa/).
+Reittiopas kertoo, missä lumivyörymaasto on. Lumivyörykirjallisuus opettaa arvioimaan, milloin maastoon voi mennä. Kirjat syventävät kurssilla opittua, mutta eivät korvaa käytännön harjoittelua piipparilla, sondalla ja lapiolla. Kurssivaihtoehdot Suomessa on koottu artikkeliin [lumiturvallisuuskurssit Suomessa](/lumiturvallisuus/lumiturvallisuuskurssit-suomessa/).
 
 :::tuote
 nimi: Lumivyöry! Tunturihiihtäjän ja vapaalaskijan lumivyöryopas
