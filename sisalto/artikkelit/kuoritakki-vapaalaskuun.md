@@ -244,6 +244,9 @@ Mm-luku on karkea luokittelu eikä vertailuväline. RET-luku on parempi mutta ha
 
 Ja koko takki on silti toissijainen sen rinnalla, miten käytät sitä. Kuori ei korvaa oikeaa nousurytmiä, eikä RECCO-heijastin korvaa piipparia.
 
+
+Valmiit mallisuositukset löydät vertailusta [Parhaat vapaalaskukuoritakit 2026](/varusteet/parhaat-vapaalaskukuoritakit/), jossa on 14 takkia plussineen, miinuksineen ja hintoineen.
+
 ---
 
 ## Tietojen ajantasaisuus

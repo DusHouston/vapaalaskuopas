@@ -147,6 +147,8 @@ Vaatetuksen kokonaisuus on käsitelty erikseen:
 - [Käsineet vapaalaskuun](/varusteet/kasineet-vapaalaskuun/)
 - [Vapaalaskukypärä: EN 1077 ja se mitä standardit eivät testaa](/varusteet/kypara-vapaalaskuun/)
 
+Valmiit mallisuositukset: [kuoritakit](/varusteet/parhaat-vapaalaskukuoritakit/), [kuorihousut](/varusteet/parhaat-vapaalaskuhousut/), [alus- ja välikerrokset](/varusteet/parhaat-alus-ja-valikerrokset/), [taukotakit](/varusteet/parhaat-taukotakit-vapaalaskuun/), [käsineet](/varusteet/parhaat-vapaalaskukasineet/) ja [ski touring -vaatteet](/varusteet/ski-touring-vaatteet/).
+
 Jos vaatetus on jo kunnossa rinnelaskusta, kaksi asiaa kannattaa silti tarkistaa ennen ensimmäistä nousua: onko takissa kainalovetoketjut ja mahtuuko lämpötakki kuoren päälle. Ne ovat ne kaksi kohtaa, joissa rinnevarustus tyypillisesti pettää vapaalaskussa.
 
 ## Varusteiden ylläpito

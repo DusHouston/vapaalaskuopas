@@ -192,6 +192,9 @@ Vapaalaskussa pukeudutaan vaiheittain:
 
 Kaikki muu, kuten materiaalit, membraanit ja mm-luvut, on hienosäätöä tämän päälle.
 
+
+Mallisuositukset jokaiseen kerrokseen: [alus- ja välikerrokset](/varusteet/parhaat-alus-ja-valikerrokset/), [kuoritakit](/varusteet/parhaat-vapaalaskukuoritakit/), [kuorihousut](/varusteet/parhaat-vapaalaskuhousut/), [taukotakit](/varusteet/parhaat-taukotakit-vapaalaskuun/), [käsineet](/varusteet/parhaat-vapaalaskukasineet/) ja [ski touring -vaatteet](/varusteet/ski-touring-vaatteet/).
+
 ---
 
 ## Tietojen ajantasaisuus

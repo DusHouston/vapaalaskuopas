@@ -136,6 +136,9 @@ Hinnat suuntaa-antavasti: ohut sormikas 25–50 €, laadukas eristetty laskukä
 
 Kahden parin kokonaisuus on halvempi kuin yksi huippukäsine — ja selvästi toimivampi.
 
+
+Mallisuositukset ja varavuoret löydät vertailusta [Parhaat vapaalaskukäsineet ja -lapaset](/varusteet/parhaat-vapaalaskukasineet/).
+
 ---
 
 ## Tietojen ajantasaisuus

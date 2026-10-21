@@ -133,6 +133,9 @@ Kolme asiaa, jotka oikeasti merkitsevät:
 
 Hintahaarukka on suuntaa-antavasti 40–60 € synteettiselle paidalle ja 70–120 € merinolle tai sekoitteelle. Se on vapaalaskuvarusteiden halvin osa ja vaikuttaa päivän mukavuuteen enemmän kuin suurin osa kalliimmista hankinnoista.
 
+
+Mallisuositukset löydät vertailusta [Parhaat alus- ja välikerrokset vapaalaskuun](/varusteet/parhaat-alus-ja-valikerrokset/).
+
 ---
 
 ## Tietojen ajantasaisuus

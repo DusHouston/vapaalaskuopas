@@ -130,6 +130,9 @@ Vapaalaskuhousuissa katsotaan käytännössä viisi asiaa: **lahjevetoketjut, va
 
 Haalarin ja tavallisten housujen välinen valinta on aito makukysymys. Kumpi tahansa toimii, kun yllä olevat viisi asiaa ovat kunnossa — ja kumpikaan ei toimi, jos ne eivät ole.
 
+
+Mallisuositukset löydät vertailusta [Parhaat vapaalaskuhousut ja haalarihousut](/varusteet/parhaat-vapaalaskuhousut/).
+
 ---
 
 ## Tietojen ajantasaisuus

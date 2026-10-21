@@ -143,6 +143,9 @@ Untuva on kevyempi ja pakkautuu pienemmäksi, mutta Suomen oloissa synteettinen 
 
 Lue myös: [Pukeutuminen vapaalaskuun: kerrospukeutuminen joka kestää sekä nousun että laskun](/varusteet/pukeutuminen-vapaalaskuun/).
 
+
+Mallisuositukset löydät vertailuista [Parhaat alus- ja välikerrokset](/varusteet/parhaat-alus-ja-valikerrokset/) ja [Untuva vai toppa: parhaat taukotakit](/varusteet/parhaat-taukotakit-vapaalaskuun/).
+
 ---
 
 ## Tietojen ajantasaisuus
