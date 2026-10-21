@@ -12,13 +12,13 @@
     {
       "slug": "varusteet",
       "nimi": "Varusteet",
-      "kuvaus": "Piipparit, sondat, lapiot, reput, sukset ja splitboardit. Mitä ostaa, mitä välttää ja mihin rahat kannattaa laittaa.",
+      "kuvaus": "Vaatetus, lumiturvallisuusvarusteet ja muut varusteet: mitä ominaisuuksista kannattaa tietää ennen ostamista ja miten valita omaan käyttöön sopiva malli.",
       "kuva": "kat-varusteet.jpg"
     },
     {
       "slug": "lumiturvallisuus",
       "nimi": "Lumiturvallisuus",
-      "kuvaus": "Lumivyöryt, vaara-asteikko, ennusteen lukeminen ja seurueen pelastustoiminta.",
+      "kuvaus": "Lumivyöryt, lumivyöryennusteen lukeminen, seuruepelastus ja lumiturvallisuuskoulutus.",
       "kuva": "kat-lumiturvallisuus.jpg"
     },
     {
@@ -33,5 +33,189 @@
       "kuvaus": "Ylläs, Kilpisjärvi, Pallas, Saariselkä ja muut kohteet — maasto, olosuhteet ja mitä kannattaa tietää etukäteen.",
       "kuva": "kat-kohteet.jpg"
     }
+  ],
+  "valikko": [
+    {
+      "nimi": "Parhaat varusteet",
+      "lyhyt": "Parhaat",
+      "url": "/parhaat/",
+      "ikoni": "tahti",
+      "vertailut": true,
+      "kuvaus": "Vertailut ja suositukset kaudelle 2026/27",
+      "kaikki": "Kaikki vertailut",
+      "ryhmat": [
+        {
+          "otsikko": "Vaatetus",
+          "artikkelit": [
+            "parhaat-vapaalaskukuoritakit:Kuoritakit",
+            "parhaat-vapaalaskuhousut:Housut ja haalarihousut",
+            "parhaat-alus-ja-valikerrokset:Alus- ja välikerrokset",
+            "parhaat-taukotakit-vapaalaskuun:Taukotakit",
+            "parhaat-vapaalaskukasineet:Käsineet ja lapaset",
+            "ski-touring-vaatteet:Ski touring -vaatteet"
+          ]
+        },
+        {
+          "otsikko": "Lumiturvallisuus",
+          "artikkelit": [
+            "lumiturvallisuusvarusteet-vapaalaskuun:Piippari, sonda ja lapio",
+            "lumivyoryreppu-patruuna-vai-sahko:Lumivyöryreput"
+          ]
+        }
+      ]
+    },
+    {
+      "nimi": "Varusteoppaat",
+      "lyhyt": "Oppaat",
+      "url": "/varusteet/",
+      "ikoni": "varusteet",
+      "kategoriat": [
+        "varusteet"
+      ],
+      "kuvaus": "Mitä varusteista kannattaa tietää ennen ostamista",
+      "kaikki": "Kaikki varusteoppaat",
+      "ryhmat": [
+        {
+          "otsikko": "Aloita tästä",
+          "artikkelit": [
+            "vapaalaskuvarusteet-mita-tarvitset:Varustelista",
+            "pukeutuminen-vapaalaskuun:Miten pukeutua"
+          ]
+        },
+        {
+          "otsikko": "Vaatetus",
+          "artikkelit": [
+            "kuoritakki-vapaalaskuun:Kuoritakki",
+            "kuorihousut-vapaalaskuun:Kuorihousut",
+            "aluskerros-vapaalaskuun:Aluskerros",
+            "valikerros-ja-lampotakki:Välikerros ja lämpötakki",
+            "kasineet-vapaalaskuun:Käsineet"
+          ]
+        },
+        {
+          "otsikko": "Turvavarusteet",
+          "artikkelit": [
+            "lumivyorypiippari-ostoopas:Lumivyörypiippari",
+            "sonda-ja-lapio-ostoopas:Sonda ja lapio",
+            "vapaalaskureppu-koko-ja-pakkaaminen:Vapaalaskureppu"
+          ]
+        },
+        {
+          "otsikko": "Muut varusteet",
+          "artikkelit": [
+            "kypara-vapaalaskuun:Kypärä",
+            "laskettelulasit-vapaalaskuun:Laskettelulasit",
+            "nousukarvat-valinta-ja-huolto:Nousukarvat"
+          ]
+        }
+      ]
+    },
+    {
+      "nimi": "Lumiturvallisuus",
+      "lyhyt": "Turvallisuus",
+      "url": "/lumiturvallisuus/",
+      "ikoni": "lumiturvallisuus",
+      "kategoriat": [
+        "lumiturvallisuus",
+        "taidot"
+      ],
+      "kuvaus": "Lumivyöryt, ennusteet, pelastus ja koulutus",
+      "kaikki": "Kaikki lumiturvallisuusoppaat",
+      "ryhmat": [
+        {
+          "otsikko": "Ennen retkeä",
+          "artikkelit": [
+            "lumivyoryennusteen-lukeminen:Lumivyöryennusteen lukeminen",
+            "lumivyoryt-suomessa:Lumivyöryt Suomessa"
+          ]
+        },
+        {
+          "otsikko": "Maastossa",
+          "artikkelit": [
+            "seuruepelastus-vaihe-vaiheelta:Seuruepelastus vaihe vaiheelta"
+          ]
+        },
+        {
+          "otsikko": "Koulutus",
+          "artikkelit": [
+            "lumiturvallisuuskurssit-suomessa:Lumiturvallisuuskurssit"
+          ]
+        }
+      ]
+    },
+    {
+      "nimi": "Kohteet",
+      "lyhyt": "Kohteet",
+      "url": "/kohteet/",
+      "ikoni": "kohteet",
+      "kategoriat": [
+        "kohteet"
+      ],
+      "kuvaus": "Laskukohteet Suomessa ja lähialueilla",
+      "kaikki": "Kaikki kohteet",
+      "ryhmat": [
+        {
+          "otsikko": "Suomi",
+          "artikkelit": [
+            "kilpisjarvi-vapaalasku:Kilpisjärvi",
+            "yllas-vapaalasku:Ylläs"
+          ]
+        },
+        {
+          "otsikko": "Retken suunnittelu",
+          "artikkelit": [
+            "vapaalaskukirjat:Reittioppaat ja kirjat"
+          ]
+        }
+      ]
+    }
+  ],
+  "liittyvat": {
+    "kuoritakki-vapaalaskuun": [
+      "parhaat-vapaalaskukuoritakit"
+    ],
+    "kuorihousut-vapaalaskuun": [
+      "parhaat-vapaalaskuhousut"
+    ],
+    "aluskerros-vapaalaskuun": [
+      "parhaat-alus-ja-valikerrokset"
+    ],
+    "valikerros-ja-lampotakki": [
+      "parhaat-alus-ja-valikerrokset",
+      "parhaat-taukotakit-vapaalaskuun"
+    ],
+    "kasineet-vapaalaskuun": [
+      "parhaat-vapaalaskukasineet"
+    ],
+    "pukeutuminen-vapaalaskuun": [
+      "parhaat-vapaalaskukuoritakit",
+      "ski-touring-vaatteet"
+    ],
+    "lumivyorypiippari-ostoopas": [
+      "lumiturvallisuusvarusteet-vapaalaskuun"
+    ],
+    "sonda-ja-lapio-ostoopas": [
+      "lumiturvallisuusvarusteet-vapaalaskuun"
+    ],
+    "vapaalaskureppu-koko-ja-pakkaaminen": [
+      "lumivyoryreppu-patruuna-vai-sahko"
+    ],
+    "vapaalaskuvarusteet-mita-tarvitset": [
+      "lumiturvallisuusvarusteet-vapaalaskuun",
+      "parhaat-vapaalaskukuoritakit"
+    ],
+    "seuruepelastus-vaihe-vaiheelta": [
+      "lumiturvallisuusvarusteet-vapaalaskuun"
+    ],
+    "lumiturvallisuuskurssit-suomessa": [
+      "lumiturvallisuusvarusteet-vapaalaskuun"
+    ]
+  },
+  "suositut": [
+    "parhaat-vapaalaskukuoritakit:Kuoritakit",
+    "parhaat-vapaalaskuhousut:Vapaalaskuhousut",
+    "lumiturvallisuusvarusteet-vapaalaskuun:Piippari, sonda ja lapio",
+    "lumivyoryreppu-patruuna-vai-sahko:Lumivyöryreput",
+    "lumivyoryennusteen-lukeminen:Ennusteen lukeminen"
   ]
 }
