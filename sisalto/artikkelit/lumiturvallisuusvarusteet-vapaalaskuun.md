@@ -264,7 +264,7 @@ teksti: Katso Bergtagen Tour 30
 
 Lumivyöryrepussa on laukaisukahvasta täyttyvä ilmapussi, jonka tarkoitus on pitää käyttäjä liikkuvan lumimassan pinnalla. Laajassa eurooppalaisessa aineistossa kuolleisuus vakavissa lumivyöryonnettomuuksissa oli 22 prosenttia ilman täyttynyttä ilmapussia ja 11 prosenttia sen kanssa.
 
-Samassa aineistossa ilmapussi jäi täyttymättä noin viidesosassa tapauksista, useimmiten siksi, että käyttäjä ei laukaissut sitä. Ilmapussi ei myöskään suojaa törmäyksiltä puihin ja kiviin. Lumivyöryreppu on siten täydentävä varuste: se ei korvaa piipparia, sondaa ja lapiota eikä maastoon ja olosuhteisiin perustuvaa harkintaa. Hankintajärjestyksessä se tulee perusvarusteiden ja koulutuksen jälkeen.
+Samassa aineistossa ilmapussi jäi täyttymättä noin viidesosassa tapauksista, useimmiten siksi, että käyttäjä ei laukaissut sitä. Ilmapussi ei myöskään suojaa törmäyksiltä puihin ja kiviin. Lumivyöryreppu on siten täydentävä varuste: se ei korvaa piipparia, sondaa ja lapiota eikä maastoon ja olosuhteisiin perustuvaa harkintaa. Hankintajärjestyksessä se tulee perusvarusteiden ja koulutuksen jälkeen. Järjestelmien eroja ja malleja käsitellään artikkelissa [Lumivyöryreppu: patruuna vai sähkö – järjestelmät ja mallit vertailussa](/varusteet/lumivyoryreppu-patruuna-vai-sahko/).
 
 ## Muut turvavarusteet
 
