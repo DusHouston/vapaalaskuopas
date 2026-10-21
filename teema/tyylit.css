@@ -688,6 +688,38 @@ h3 { font-size: 1.15rem; }
 .osto-merkki { font-size: .6rem; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; opacity: .75; }
 @media (max-width: 640px) { .osto { flex-direction: column; align-items: stretch; } }
 
+/* ---------- Tuotekortti (:::tuote) ---------- */
+
+.tuote {
+  display: grid; grid-template-columns: 220px 1fr;
+  margin: 2em 0; border: 1px solid var(--viiva); border-radius: var(--r-iso);
+  background: var(--tausta); box-shadow: var(--varjo); overflow: hidden;
+  scroll-margin-top: 90px;
+}
+.tuote-kuva { display: flex; align-items: flex-start; justify-content: center; padding: 14px; background: #fff; border-right: 1px solid var(--viiva); }
+.tuote-kuva img { width: 100%; max-width: 220px; aspect-ratio: 1; object-fit: contain; display: block; }
+.tuote-runko { padding: 20px 22px 22px; min-width: 0; }
+.tuote-yla { display: flex; flex-wrap: wrap; gap: 6px 10px; align-items: center; margin-bottom: 6px; }
+.tuote-nosto { font-family: var(--otsikko); font-size: .68rem; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; background: var(--navy); color: #fff; padding: 5px 9px; border-radius: var(--r); }
+.tuote-tyyppi { font-family: var(--otsikko); font-size: .72rem; font-weight: 600; letter-spacing: .06em; text-transform: uppercase; color: var(--muste-3); }
+.tuote-merkki { font-family: var(--otsikko); font-weight: 600; font-size: .9rem; color: var(--muste-2); }
+.tuote .tuote-nimi { margin: 0; font-size: 1.25rem; color: var(--navy); }
+.tuote-hinta { margin: 6px 0 0; font-family: var(--otsikko); font-weight: 700; font-size: 1.15rem; color: var(--navy); }
+.tuote-hinta small { margin-left: 8px; font-family: var(--teksti); font-weight: 400; font-size: .75rem; color: var(--muste-3); }
+.tuote-kuvaus { margin: 12px 0 0; font-size: 1rem; }
+.tuote-arviot { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 14px 0; }
+.tuote-arviot .arvio { margin: 0; padding: 12px 14px; background: var(--pinta-2); border-left: 0; border-right: 0; border-bottom: 0; }
+.tuote-sopii { margin: 0 0 16px; font-size: .95rem; color: var(--muste-2); }
+.tuote-sopii strong { color: var(--muste); }
+.tuote-nappi { min-height: 44px; }
+@media (max-width: 680px) {
+  .tuote { grid-template-columns: 1fr; }
+  .tuote-kuva { border-right: 0; border-bottom: 1px solid var(--viiva); }
+  .tuote-kuva img { max-width: 200px; }
+  .tuote-arviot { grid-template-columns: 1fr; }
+  .tuote-nappi { width: 100%; }
+}
+
 .luonnos-varoitus { margin-top: 18px; padding: 14px 18px; border-radius: var(--r); background: #fdecea; font-size: .9rem; }
 
 /* ---------- Alatunniste ---------- */
