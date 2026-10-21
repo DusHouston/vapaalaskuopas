@@ -685,6 +685,7 @@ h3 { font-size: 1.15rem; }
   font-family: var(--otsikko); font-weight: 700; text-decoration: none;
 }
 .osto-nappi:hover { background: var(--navy-2); color: #fff; }
+.teksti a.osto-nappi, .teksti a.osto-nappi:visited, .teksti a.osto-nappi:hover { color: #fff; text-decoration: none; }
 .osto-merkki { font-size: .6rem; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; opacity: .75; }
 @media (max-width: 640px) { .osto { flex-direction: column; align-items: stretch; } }
 
