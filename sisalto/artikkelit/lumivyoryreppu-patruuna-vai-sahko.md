@@ -1,6 +1,6 @@
 ---
 otsikko: Lumivyöryreppu: patruuna vai sähkö – järjestelmät ja mallit vertailussa
-kuvaus: Miten lumivyöryreppu toimii, mitä tutkimukset kertovat sen tehosta ja miten patruunakäyttöiset ja sähköiset järjestelmät eroavat. Vertailussa Ortovox, Arc'teryx, Scott, Pieps ja Mammut.
+kuvaus: Miten lumivyöryreppu toimii, mitä tutkimukset kertovat sen tehosta ja miten patruunakäyttöiset ja sähköiset järjestelmät eroavat. Vertailussa Ortovox, Arc'teryx, Scott, Pieps, Mammut, Arva ja BCA.
 kategoria: varusteet
 paivays: 2026-10-21
 paivitetty: 2026-10-21
@@ -14,7 +14,7 @@ luonnos: false
 - Noin viidesosassa tapauksista ilmapussi jää täyttymättä, useimmiten siksi, ettei käyttäjä laukaise sitä
 - **Patruunajärjestelmä** on edullisempi ja yksinkertainen, mutta jokainen täyttö kuluttaa patruunan, ja lentomatkustaminen vaatii järjestelyjä
 - **Sähköinen järjestelmä** (superkondensaattori tai akku) mahdollistaa useita täyttöjä ja maksuttomat harjoitustäytöt, mutta maksaa tyypillisesti kaksinkertaisesti
-- Vertailun mallit: Ortovox Avabag LiTRIC Freeride 28, Arc'teryx Micon LiTRIC 32, Scott Patrol E2 30, Pieps JetForce BT 35 ja Mammut Tour 30 Removable Airbag 3.0
+- Vertailussa neljä sähköistä mallia (Ortovox, Arc'teryx, Scott, Pieps) ja neljä patruunamallia (Mammut Tour 30, Mammut Eiger Free 20, Arva Explore 30 Switch, BCA Float 2.0 42)
 :::
 
 Lumivyöryreppu on reppu, jonka ilmapussi täyttyy laukaisukahvasta vedettäessä. Täyttynyt ilmapussi kasvattaa laskijan tilavuutta, ja liikkuvassa lumimassassa suurikokoiset kappaleet pyrkivät nousemaan pintaan. Tavoitteena on estää hautautuminen kokonaan tai pitää hautautumissyvyys pienenä.
@@ -62,6 +62,8 @@ Lumivyöryrepuissa on käytössä kaksi päätekniikkaa: paineilma- tai kaasupat
 ## Lumivyöryreput vertailussa
 
 Vertailun tuotteet on valittu niin, että mukana on eri järjestelmiä ja hintaluokkia. Hinnat ovat suuntaa-antavia kuluttajahintoja lokakuussa 2026.
+
+### Sähköiset lumivyöryreput
 
 :::tuote
 nimi: Avabag LiTRIC Freeride 28
@@ -119,6 +121,53 @@ miinus: Vertailun painavin
 miinus: Akku vaatii lataamista ja huoltoa
 sopii: haluat useita täyttöjä yhdellä latauksella ja käytät reppua eri pituisilla retkillä.
 :::
+
+### Patruunakäyttöiset lumivyöryreput
+
+Patruunajärjestelmissä reppu ostetaan yleensä ilman patruunaa, joka hankitaan erikseen. Paineilmapatruunat voi täyttää uudelleen, mutta jokainen täyttö, myös harjoitustäyttö, kuluttaa patruunan.
+
+:::tuote
+nimi: Explore 30 Switch
+merkki: Arva
+tyyppi: Patruuna · kaksi ilmapussia · 30 l
+kuva: tuotteet/arva-explore30.jpg
+hinta: 599,95 € (ilman patruunaa)
+kuvaus: Arvan Reactor-järjestelmässä on kaksi erillistä ilmapussia, ja se on valmistajan mukaan yksi markkinoiden kevyimmistä kahden ilmapussin järjestelmistä. Switch-rakenteessa järjestelmäkehikkoon vaihdetaan eri kokoisia reppuosia. Selän pituus on säädettävissä (40–50 cm), turvavarusteille on oma ulkotasku ja laukaisukahvan voi asentaa kummalle puolelle tahansa. Paino on 1 950 g ilman patruunaa, 2 270 g hiilikuitupatruunan kanssa ja 2 440 g teräspatruunan kanssa. Suomessa Reactor-patruunat maksavat noin 75 € (teräs) ja 150 € (hiilikuitu).
+plus: Kaksi ilmapussia
+plus: Säädettävä selän pituus
+plus: Modulaarinen Switch-rakenne
+miinus: Patruuna hankitaan erikseen
+miinus: Hiilikuitupatruunan täyttää valmistaja
+sopii: haluat edullisen patruunarepun, jonka reppuosaa voi vaihtaa retken mukaan.
+:::
+:::tuote
+nimi: Eiger Free 20 Removable Airbag 3.0
+merkki: Mammut
+tyyppi: Paineilmapatruuna · 20 l
+kuva: tuotteet/mammut-eiger20.jpg
+hinta: 719,95 € (ilman patruunaa)
+kuvaus: Huippulaskijoiden kanssa kehitetty kevyt freeride-reppu, jossa on irrotettava Removable Airbag System 3.0. Valmistaja ilmoittaa repun painoksi noin 1,5 kg. Ilman irrotettavia osia, kuten kompressiohihnoja ja selkäpehmustetta, reppu painaa ilman ilmapussijärjestelmää vain 470 g. Kangas on kulutusta kestävää ja vedenpitävää ULTRA-materiaalia, ja Eiger Hook -järjestelmään kiinnittyvät sukset, splitboard, lumilauta ja jäähakut.
+plus: Erittäin kevyt
+plus: Kestävä ja vedenpitävä ULTRA-kangas
+plus: Järjestelmä siirrettävissä toiseen reppuun
+miinus: 20 litraa riittää vain kevyeen varustukseen
+miinus: Kalliimpi kuin muut patruunareput
+sopii: teet nopeita ja jyrkkiä laskuja ja haluat mahdollisimman kevyen repun.
+:::
+:::tuote
+nimi: Float 2.0 42
+merkki: BCA
+tyyppi: Paineilmapatruuna · 42 l
+kuva: tuotteet/bca-float42.jpg
+hinta: 449,95 € (ilman patruunaa)
+kuvaus: Pitkään markkinoilla ollut patruunareppu, jonka 150 litran ilmapussi täyttyy paineilmasylinteristä. Sylinterin voi täyttää uudelleen. Reppuun pääsee selkäpaneelin puolelta, ja siinä on vinottainen suksikiinnitys, lantiovyön tasku ja jalkalenkki. 42 litran tilavuus riittää myös pitkille retkille. Paino on 3 215 g täyden sylinterin kanssa ja 2 658 g ilman sylinteriä.
+plus: Edullisin vertailussa
+plus: Uudelleentäytettävä paineilmasylinteri
+plus: Suuri tilavuus
+miinus: Painavin vertailussa
+miinus: Sylinteri hankitaan erikseen
+sopii: tarvitset tilavan repun pitkille retkille ja haluat edullisen lumivyöryrepun.
+:::
 :::tuote
 nimi: Tour 30 Removable Airbag 3.0
 merkki: Mammut
@@ -126,7 +175,7 @@ tyyppi: Paineilmapatruuna · 30 l
 kuva: tuotteet/mammut-tour30.jpg
 hinta: 559,95 € (ilman patruunaa)
 kuvaus: Patruunakäyttöinen lumivyöryreppu, jossa on Mammutin irrotettava Removable Airbag System 3.0. Laukaisu puhkaisee paineilmapatruunan, ja 150 litran ilmapussi täyttyy noin kolmessa sekunnissa. Patruuna myydään erikseen, ja sen voi täyttää uudelleen. Järjestelmän voi siirtää toiseen yhteensopivaan Mammut-reppuun. Turvavarusteille on erillinen oranssi tasku. Paino on 2 155 g ilman patruunaa ja 2 465 g hiilikuitupatruunan kanssa.
-plus: Selvästi edullisin vertailussa
+plus: Edullinen
 plus: Koeteltu ja yksinkertainen tekniikka
 plus: Järjestelmä siirrettävissä toiseen reppuun
 miinus: Yksi täyttö patruunaa kohden
@@ -164,7 +213,7 @@ Paineilmapatruunat, kuten Mammutin, voi täyttää uudelleen, yleensä sukellus-
 
 ## Tietojen ajantasaisuus
 
-Tuotetiedot on tarkistettu valmistajien ja jälleenmyyjien tuotekuvauksista lokakuussa 2026. Hinnat ovat suuntaa-antavia: Ortovoxin, Scottin, Piepsin ja Mammutin hinnat ovat saksalaisen Sport Conrad -verkkokaupan hintoja ja Arc'teryxin hinta valmistajan eurooppalaisen verkkokaupan hinta. Hinnat vaihtelevat kaupoittain ja kampanjoiden mukaan.
+Tuotetiedot on tarkistettu valmistajien ja jälleenmyyjien tuotekuvauksista lokakuussa 2026. Hinnat ovat suuntaa-antavia: Ortovoxin, Scottin, Piepsin, Mammutin, Arvan ja BCA:n hinnat ovat saksalaisen Sport Conrad -verkkokaupan hintoja ja Arc'teryxin hinta valmistajan eurooppalaisen verkkokaupan hinta. Hinnat vaihtelevat kaupoittain ja kampanjoiden mukaan.
 
 **Tämä artikkeli ei korvaa lumiturvallisuuskoulutusta.** Käy lumiturvallisuuskurssi ennen kuin liikut merkittyjen rinteiden ulkopuolella.
 
