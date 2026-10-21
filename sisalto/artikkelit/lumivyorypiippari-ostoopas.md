@@ -123,6 +123,9 @@ Piipparin valinta on yksinkertaisempi kuin miltä hyllyn edessä näyttää. Vaa
 
 Se mikä erottaa nopean etsinnän hitaasta, ei ole laite vaan harjoittelu. Sama piippari löytää uhrin kolmessa minuutissa harjaantuneessa kädessä ja viidessätoista harjaantumattomassa — ja tuo ero on selviytymiskäyrällä ratkaiseva.
 
+
+Hyvät vaihtoehdot hintoineen löydät artikkelista [Lumiturvallisuusvarusteet vapaalaskuun: mitä tarvitset ja hyvät vaihtoehdot](/varusteet/lumiturvallisuusvarusteet-vapaalaskuun/).
+
 ---
 
 ## Tietojen ajantasaisuus
