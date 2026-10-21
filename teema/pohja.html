@@ -36,21 +36,7 @@
 
 <div class="ylapalkki-ohut"><div class="kaari"><span>Suomenkielinen opas vapaalaskuun ja lumiturvallisuuteen</span><a href="https://www.ilmatieteenlaitos.fi/lumivyoryennuste" rel="noopener" target="_blank">Lumivyöryennuste →</a></div></div>
 
-<header class="ylapalkki">
-  <div class="kaari ylapalkki-sisus">
-    <a class="logo" href="/" aria-label="{{sivustonimi}} – etusivu">
-      <svg width="26" height="26" viewBox="0 0 26 26" fill="none" aria-hidden="true">
-        <path d="M2 20.5 L9 7.5 L13.2 15 L16 10.5 L24 20.5 Z" fill="currentColor" opacity=".18"/>
-        <path d="M2 20.5 L9 7.5 L13.2 15 L16 10.5 L24 20.5" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round" fill="none"/>
-        <path d="M6.6 13.2 L9 11.3 L11.3 13.2" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round" fill="none"/>
-      </svg>
-      {{sivustonimi}}
-    </a>
-    <nav class="navi" aria-label="Päävalikko">
-        {{navi}}
-    </nav>
-  </div>
-</header>
+{{ylapalkki}}
 
 <main id="sisalto">
 {{kansi}}
@@ -64,40 +50,9 @@
 {{alanavi}}
 </nav>
 
-<footer class="alapalkki">
-  <div class="kaari">
-    <div class="alapalkki-osiot">
-      <div>
-        <span class="logo">
-          <svg width="24" height="24" viewBox="0 0 26 26" fill="none" aria-hidden="true">
-            <path d="M2 20.5 L9 7.5 L13.2 15 L16 10.5 L24 20.5 Z" fill="currentColor" opacity=".18"/>
-            <path d="M2 20.5 L9 7.5 L13.2 15 L16 10.5 L24 20.5" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round" fill="none"/>
-            <path d="M6.6 13.2 L9 11.3 L11.3 13.2" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round" fill="none"/>
-          </svg>
-          {{sivustonimi}}
-        </span>
-        <p>{{sivustokuvaus}}</p>
-        <a class="alapalkki-posti" href="mailto:{{sahkoposti}}">{{sahkoposti}}</a>
-      </div>
-      <div>
-        <h2>Aiheet</h2>
-        <nav aria-label="Kategoriat">
-          {{navi}}
-        </nav>
-      </div>
-      <div>
-        <h2>Sivusto</h2>
-        <nav aria-label="Alavalikko">
-          <a href="/tietoa/">Tietoa sivustosta</a>
-          <a href="/affiliate-linkit/">Kumppanuuslinkit</a>
-          <a href="/tietosuoja/">Tietosuoja</a>
-          <a href="/rss.xml">RSS-syöte</a>
-        </nav>
-      </div>
-    </div>
-    <p class="copyright">&copy; {{vuosi}} {{sivustonimi}}. Sivusto sisältää kumppanuuslinkkejä. Sisältö ei korvaa lumiturvallisuuskoulutusta.</p>
-  </div>
-</footer>
+{{alapalkki}}
+
+{{dialogit}}
 
 <script>
 (function () {
@@ -112,6 +67,98 @@
   document.querySelectorAll('.sisallys-mobiili a').forEach(function (a) {
     a.addEventListener('click', function () { a.closest('details').open = false; });
   });
+
+
+  /* --- Megavalikko --- */
+  var kohdat = Array.prototype.slice.call(document.querySelectorAll('[data-valikko]'));
+  var hiiri = window.matchMedia('(hover: hover) and (pointer: fine)');
+  function sulje(k) { k.classList.remove('auki'); var b = k.querySelector('.valikko-avaa'); if (b) b.setAttribute('aria-expanded', 'false'); }
+  function avaa(k) { kohdat.forEach(function (x) { if (x !== k) sulje(x); }); k.classList.add('auki'); var b = k.querySelector('.valikko-avaa'); if (b) b.setAttribute('aria-expanded', 'true'); }
+  kohdat.forEach(function (k) {
+    var ajastin;
+    k.querySelector('.valikko-avaa').addEventListener('click', function (e) {
+      e.stopPropagation();
+      k.classList.contains('auki') ? sulje(k) : avaa(k);
+    });
+    k.addEventListener('mouseenter', function () {
+      if (!hiiri.matches) return;
+      clearTimeout(ajastin);
+      ajastin = setTimeout(function () { avaa(k); }, kohdat.some(function (x) { return x.classList.contains('auki'); }) ? 0 : 160);
+    });
+    k.addEventListener('mouseleave', function () {
+      if (!hiiri.matches) return;
+      clearTimeout(ajastin);
+      ajastin = setTimeout(function () { sulje(k); }, 280);
+    });
+  });
+  document.addEventListener('click', function (e) { kohdat.forEach(function (k) { if (!k.contains(e.target)) sulje(k); }); });
+  document.addEventListener('keydown', function (e) {
+    if (e.key === 'Escape') kohdat.forEach(function (k) { if (k.classList.contains('auki')) { sulje(k); k.querySelector('.valikko-avaa').focus(); } });
+  });
+
+  /* --- Dialogit --- */
+  var mv = document.getElementById('mobiilivalikko');
+  var hi = document.getElementById('hakuikkuna');
+  function avaaDialogi(d) { if (!d) return; if (d.showModal) { if (!d.open) d.showModal(); } else d.setAttribute('open', ''); document.documentElement.classList.add('lukittu'); }
+  function suljeDialogi(d) { if (!d) return; if (d.close) d.close(); else d.removeAttribute('open'); }
+  [mv, hi].forEach(function (d) {
+    if (!d) return;
+    d.addEventListener('close', function () { if (!(mv && mv.open) && !(hi && hi.open)) document.documentElement.classList.remove('lukittu'); });
+    d.addEventListener('click', function (e) { if (e.target === d) suljeDialogi(d); });
+    d.querySelectorAll('[data-sulje]').forEach(function (b) { b.addEventListener('click', function () { suljeDialogi(d); }); });
+  });
+  document.querySelectorAll('[data-valikko-avaa]').forEach(function (b) { b.addEventListener('click', function () { avaaDialogi(mv); }); });
+
+  /* --- Haku --- */
+  var syote = document.getElementById('hakusyote');
+  var tulokset = document.getElementById('hakutulokset');
+  var ehdotukset = document.getElementById('hakuehdotukset');
+  var indeksi = null;
+  function lataa() {
+    if (indeksi) return Promise.resolve(indeksi);
+    return fetch('/haku.json').then(function (r) { return r.json(); }).then(function (d) { indeksi = d; return d; }).catch(function () { indeksi = []; return indeksi; });
+  }
+  function avaaHaku() {
+    if (mv && mv.open) suljeDialogi(mv);
+    avaaDialogi(hi);
+    lataa();
+    setTimeout(function () { syote && syote.focus(); }, 30);
+  }
+  document.querySelectorAll('[data-haku-avaa]').forEach(function (b) { b.addEventListener('click', avaaHaku); });
+  document.addEventListener('keydown', function (e) {
+    var t = e.target.tagName;
+    if (e.key === '/' && t !== 'INPUT' && t !== 'TEXTAREA' && !(hi && hi.open)) { e.preventDefault(); avaaHaku(); }
+  });
+  function suojaa(s) { return String(s).replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }
+  function hae() {
+    var q = syote.value.trim().toLowerCase();
+    if (!q) { tulokset.innerHTML = ''; ehdotukset.hidden = false; return; }
+    ehdotukset.hidden = true;
+    lataa().then(function (d) {
+      var sanat = q.split(/\s+/).filter(Boolean);
+      var osumat = d.map(function (x) {
+        var o = x.o.toLowerCase();
+        if (!sanat.every(function (w) { return x.s.indexOf(w) !== -1 || o.indexOf(w) !== -1; })) return null;
+        var p = (x.t ? 1 : 3);
+        sanat.forEach(function (w) { if (o.indexOf(w) !== -1) p += 4; if (o.indexOf(w) === 0) p += 2; });
+        return { x: x, p: p };
+      }).filter(Boolean).sort(function (a, b) { return b.p - a.p; });
+      var artikkelit = osumat.filter(function (m) { return !m.x.t; }).slice(0, 6);
+      var tuotteet = osumat.filter(function (m) { return m.x.t; }).slice(0, 6);
+      var html = '';
+      if (!artikkelit.length && !tuotteet.length) html = '<li class="haku-tyhja">Ei tuloksia haulla “' + suojaa(q) + '”. Kokeile toista sanaa.</li>';
+      if (artikkelit.length) html += '<li class="haku-ryhma">Oppaat ja vertailut</li>' + artikkelit.map(function (m) { return '<li><a href="' + m.x.u + '"><span class="ht-r">' + suojaa(m.x.r) + '</span><span class="ht-o">' + suojaa(m.x.o) + '</span></a></li>'; }).join('');
+      if (tuotteet.length) html += '<li class="haku-ryhma">Tuotteet</li>' + tuotteet.map(function (m) { return '<li><a class="ht-tuote" href="' + m.x.u + '">' + (m.x.k ? '<img src="' + m.x.k + '" alt="" width="40" height="40">' : '') + '<span><span class="ht-o">' + suojaa(m.x.o) + '</span><span class="ht-r">' + suojaa(m.x.r) + '</span></span></a></li>'; }).join('');
+      tulokset.innerHTML = html;
+    });
+  }
+  if (syote) {
+    syote.addEventListener('input', hae);
+    syote.addEventListener('keydown', function (e) {
+      if (e.key === 'Enter') { var a = tulokset.querySelector('a'); if (a) { window.location.href = a.href; } }
+    });
+    tulokset.addEventListener('click', function (e) { if (e.target.closest('a')) suljeDialogi(hi); });
+  }
 
   var palkki = document.getElementById('edistys');
   var artikkeli = document.querySelector('.teksti');
