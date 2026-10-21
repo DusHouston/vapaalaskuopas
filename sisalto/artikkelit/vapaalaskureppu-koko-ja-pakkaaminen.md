@@ -124,7 +124,7 @@ Osta 25–32 litran reppu, jossa on erillinen turvavarustelokero ja toimiva suks
 Ostopäätöksen ratkaisee yksi testi: saatko lapion ulos hanskat kädessä alle viidessä sekunnissa?
 
 
-Hyvät vaihtoehdot hintoineen löydät artikkelista [Lumiturvallisuusvarusteet vapaalaskuun: mitä tarvitset ja hyvät vaihtoehdot](/varusteet/lumiturvallisuusvarusteet-vapaalaskuun/).
+Esimerkkimallit teknisine tietoineen esitellään artikkelissa [Lumiturvallisuusvarusteet vapaalaskuun: piippari, sonda, lapio ja reppu](/varusteet/lumiturvallisuusvarusteet-vapaalaskuun/).
 
 ---
 

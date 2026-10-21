@@ -144,7 +144,7 @@ Kaksi sääntöä riittää: **sonda vähintään 240 cm, mieluummin 280 cm** ja
 Ja kuten piipparin kohdalla: varuste ei kaiva puolestasi. Kaivutekniikka on taito, jonka oppii vain tekemällä.
 
 
-Hyvät vaihtoehdot hintoineen löydät artikkelista [Lumiturvallisuusvarusteet vapaalaskuun: mitä tarvitset ja hyvät vaihtoehdot](/varusteet/lumiturvallisuusvarusteet-vapaalaskuun/).
+Esimerkkimallit teknisine tietoineen esitellään artikkelissa [Lumiturvallisuusvarusteet vapaalaskuun: piippari, sonda, lapio ja reppu](/varusteet/lumiturvallisuusvarusteet-vapaalaskuun/).
 
 ---
 

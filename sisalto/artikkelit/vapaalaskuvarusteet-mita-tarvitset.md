@@ -178,7 +178,7 @@ Vapaalaskun turvavarusteet ovat noin 500 euron kertainvestointi, joka kestää l
 Tärkein sijoitus ei kuitenkaan ole varuste vaan koulutus. Piippari, sonda ja lapio ovat työkaluja, ja työkalu on täsmälleen niin hyvä kuin sen käyttäjä. Harjoittele etsintää ennen kauden ensimmäistä laskua, älä sen jälkeen.
 
 
-Hyvät vaihtoehdot hintoineen löydät artikkelista [Lumiturvallisuusvarusteet vapaalaskuun: mitä tarvitset ja hyvät vaihtoehdot](/varusteet/lumiturvallisuusvarusteet-vapaalaskuun/).
+Esimerkkimallit teknisine tietoineen esitellään artikkelissa [Lumiturvallisuusvarusteet vapaalaskuun: piippari, sonda, lapio ja reppu](/varusteet/lumiturvallisuusvarusteet-vapaalaskuun/).
 
 ---
 
