@@ -1,7 +1,7 @@
 ---
 otsikko: Parhaat vapaalaskuhousut ja haalarihousut 2026
 kuvaus: Vertailimme 13 kuori-, toppa- ja haalarihousua vapaalaskuun: Norrøna, Arc'teryx, Peak Performance, Halti ja muut. Plussat, miinukset ja hinnat.
-kategoria: varusteet
+kategoria: vaatteet
 paivays: 2026-10-21
 paivitetty: 2026-10-21
 avainsanat: [Vapaalasku, Varusteet, Vertailu]
@@ -19,7 +19,7 @@ luonnos: false
 
 Housut kuluvat vapaalaskussa nopeammin kuin takki: lahkeensuut osuvat suksen kanttiin, ja polvet ja takamus ottavat osumaa joka kaatumisessa. Siksi housuissa kestävyys on tärkeämpää kuin keveys. Tässä vertailussa on 13 housua kevyistä kuorihousuista lämpimiin haalarihousuihin.
 
-Haalarin ja tavallisten housujen eroista, vahvikkeista ja lumilukoista kerrotaan tarkemmin oppaassa [Kuorihousut vai haalari?](/varusteet/kuorihousut-vapaalaskuun/)
+Haalarin ja tavallisten housujen eroista, vahvikkeista ja lumilukoista kerrotaan tarkemmin oppaassa [Kuorihousut vai haalari?](/vaatteet/kuorihousut-vapaalaskuun/)
 
 ## Pikavalinta
 
@@ -280,9 +280,9 @@ teksti: Katso Tech Wash
 
 ## Lue myös
 
-- [Parhaat vapaalaskukuoritakit 2026](/varusteet/parhaat-vapaalaskukuoritakit/)
-- [Parhaat alus- ja välikerrokset vapaalaskuun](/varusteet/parhaat-alus-ja-valikerrokset/)
-- [Ski touring -vaatteet: kevyet kuoret ja kerrokset](/varusteet/ski-touring-vaatteet/)
+- [Parhaat vapaalaskukuoritakit 2026](/vaatteet/parhaat-vapaalaskukuoritakit/)
+- [Parhaat alus- ja välikerrokset vapaalaskuun](/vaatteet/parhaat-alus-ja-valikerrokset/)
+- [Ski touring -vaatteet: kevyet kuoret ja kerrokset](/vaatteet/ski-touring-vaatteet/)
 
 ## Tietojen ajantasaisuus
 

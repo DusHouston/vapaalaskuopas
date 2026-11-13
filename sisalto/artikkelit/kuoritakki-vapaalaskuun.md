@@ -1,7 +1,7 @@
 ---
 otsikko: Vapaalaskutakki: mitä kuoritakin ominaisuuksista oikeasti kannattaa katsoa
 kuvaus: Vedenpitävyyden mm-luvut, RET-hengittävyys, membraanityypit, kerrosrakenteet ja vapaalaskun erikoisominaisuudet. Mitä kuoritakin teknisistä tiedoista voi päätellä ja mitä ei.
-kategoria: varusteet
+kategoria: vaatteet
 paivays: 2026-10-10
 paivitetty: 2026-10-10
 avainsanat: [Vapaalasku, Varusteet, Ostoopas]
@@ -245,7 +245,7 @@ Mm-luku on karkea luokittelu eikä vertailuväline. RET-luku on parempi mutta ha
 Ja koko takki on silti toissijainen sen rinnalla, miten käytät sitä. Kuori ei korvaa oikeaa nousurytmiä, eikä RECCO-heijastin korvaa piipparia.
 
 
-Valmiit mallisuositukset löydät vertailusta [Parhaat vapaalaskukuoritakit 2026](/varusteet/parhaat-vapaalaskukuoritakit/), jossa on 14 takkia plussineen, miinuksineen ja hintoineen.
+Valmiit mallisuositukset löydät vertailusta [Parhaat vapaalaskukuoritakit 2026](/vaatteet/parhaat-vapaalaskukuoritakit/), jossa on 14 takkia plussineen, miinuksineen ja hintoineen.
 
 ---
 

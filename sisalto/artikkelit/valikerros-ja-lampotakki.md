@@ -1,7 +1,7 @@
 ---
 otsikko: Välikerros ja lämpötakki: ristikkofleece, aktiivieriste, untuva vai synteettinen
 kuvaus: Kaksi eri eristävää kerrosta, kaksi eri tehtävää. Mitä clo-luvut kertovat, miksi untuvan fill power ei kerro lämmöstä ja mitä hydrofobinen käsittely oikeasti lupaa.
-kategoria: varusteet
+kategoria: vaatteet
 paivays: 2026-10-10
 paivitetty: 2026-10-10
 avainsanat: [Vapaalasku, Varusteet, Pukeutuminen]
@@ -141,10 +141,10 @@ Kaksi eristävää kerrosta, kaksi eri tehtävää:
 
 Untuva on kevyempi ja pakkautuu pienemmäksi, mutta Suomen oloissa synteettinen on käytännöllisempi. Fill power ei kerro lämmöstä, ja hydrofobisen untuvan lupaukset ovat valmistajien omia.
 
-Lue myös: [Pukeutuminen vapaalaskuun: kerrospukeutuminen joka kestää sekä nousun että laskun](/varusteet/pukeutuminen-vapaalaskuun/).
+Lue myös: [Pukeutuminen vapaalaskuun: kerrospukeutuminen joka kestää sekä nousun että laskun](/vaatteet/pukeutuminen-vapaalaskuun/).
 
 
-Mallisuositukset löydät vertailuista [Parhaat alus- ja välikerrokset](/varusteet/parhaat-alus-ja-valikerrokset/) ja [Untuva vai toppa: parhaat taukotakit](/varusteet/parhaat-taukotakit-vapaalaskuun/).
+Mallisuositukset löydät vertailuista [Parhaat alus- ja välikerrokset](/vaatteet/parhaat-alus-ja-valikerrokset/) ja [Untuva vai toppa: parhaat taukotakit](/vaatteet/parhaat-taukotakit-vapaalaskuun/).
 
 ---
 

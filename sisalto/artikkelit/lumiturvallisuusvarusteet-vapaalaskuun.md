@@ -270,7 +270,7 @@ Samassa aineistossa ilmapussi jäi täyttymättä noin viidesosassa tapauksista,
 
 - **Kypärä.** Törmäykset puihin ja kiviin ovat merkittävä vammojen aiheuttaja rinteiden ulkopuolella. Katso [Vapaalaskukypärä: EN 1077 ja se mitä standardit eivät testaa](/varusteet/kypara-vapaalaskuun/).
 - **Puhelin.** Ladattu puhelin säilytetään lämpimässä sisätaskussa. Hätänumero on 112.
-- **Ensiapuvälineet ja lämpökerros.** Onnettomuuden jälkeen seurue voi joutua odottamaan pitkään kylmässä. Katso [Untuva vai toppa: parhaat taukotakit vapaalaskuun](/varusteet/parhaat-taukotakit-vapaalaskuun/).
+- **Ensiapuvälineet ja lämpökerros.** Onnettomuuden jälkeen seurue voi joutua odottamaan pitkään kylmässä. Katso [Untuva vai toppa: parhaat taukotakit vapaalaskuun](/vaatteet/parhaat-taukotakit-vapaalaskuun/).
 
 ## Perusvarustuksen kustannukset
 
@@ -302,7 +302,7 @@ Koulutus. Lumivyöryreppu vaikuttaa vasta onnettomuuden jälkeen, kun taas koulu
 - [Lumivyörypiippari: miten se toimii ja mitä ostaessa katsotaan](/varusteet/lumivyorypiippari-ostoopas/)
 - [Sonda ja lapio: mitat, materiaalit ja miksi ne ratkaisevat kaivuajan](/varusteet/sonda-ja-lapio-ostoopas/)
 - [Seuruepelastus vaihe vaiheelta](/lumiturvallisuus/seuruepelastus-vaihe-vaiheelta/)
-- [Ski touring -vaatteet: kevyet kuoret ja kerrokset](/varusteet/ski-touring-vaatteet/)
+- [Ski touring -vaatteet: kevyet kuoret ja kerrokset](/vaatteet/ski-touring-vaatteet/)
 
 ## Tietojen ajantasaisuus
 

@@ -1,7 +1,7 @@
 ---
 otsikko: Kuorihousut vai haalari? Vapaalaskuhousujen ominaisuudet vertailussa
 kuvaus: Haalari vai tavalliset kuorihousut, sivuvetoketjut, vahvikkeet, kiinteät lumisuojat ja piipparitasku. Mitä vapaalaskuhousuissa oikeasti merkitsee ja mitä ei.
-kategoria: varusteet
+kategoria: vaatteet
 paivays: 2026-10-10
 paivitetty: 2026-10-10
 avainsanat: [Vapaalasku, Varusteet, Ostoopas]
@@ -95,7 +95,7 @@ Haalarissa olkaimet kannattaa olla säädettävät ja mieluiten edestä irrotett
 
 ## Kangas ja rakenne
 
-Housujen osalta periaatteet ovat samat kuin takissa, ja ne käydään tarkemmin läpi artikkelissa [Vapaalaskutakki: mitä kuoritakin ominaisuuksista oikeasti kannattaa katsoa](/varusteet/kuoritakki-vapaalaskuun/).
+Housujen osalta periaatteet ovat samat kuin takissa, ja ne käydään tarkemmin läpi artikkelissa [Vapaalaskutakki: mitä kuoritakin ominaisuuksista oikeasti kannattaa katsoa](/vaatteet/kuoritakki-vapaalaskuun/).
 
 Lyhyesti:
 
@@ -131,7 +131,7 @@ Vapaalaskuhousuissa katsotaan käytännössä viisi asiaa: **lahjevetoketjut, va
 Haalarin ja tavallisten housujen välinen valinta on aito makukysymys. Kumpi tahansa toimii, kun yllä olevat viisi asiaa ovat kunnossa — ja kumpikaan ei toimi, jos ne eivät ole.
 
 
-Mallisuositukset löydät vertailusta [Parhaat vapaalaskuhousut ja haalarihousut](/varusteet/parhaat-vapaalaskuhousut/).
+Mallisuositukset löydät vertailusta [Parhaat vapaalaskuhousut ja haalarihousut](/vaatteet/parhaat-vapaalaskuhousut/).
 
 ---
 

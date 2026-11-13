@@ -1,7 +1,7 @@
 ---
 otsikko: Ski touring -vaatteet: kevyet kuoret ja kerrokset
 kuvaus: Ski touringissa vaatteiden pitää toimia hikisessä nousussa ja tuulisessa laskussa. Parhaat kevyet kuoret, tuulitakit ja nousukerrokset hintoineen.
-kategoria: varusteet
+kategoria: vaatteet
 paivays: 2026-10-21
 paivitetty: 2026-10-21
 avainsanat: [Vapaalasku, Varusteet, Vertailu]
@@ -254,10 +254,10 @@ teksti: Katso Venta
 
 ## Lue myös
 
-- [Parhaat vapaalaskukuoritakit 2026](/varusteet/parhaat-vapaalaskukuoritakit/)
-- [Parhaat vapaalaskuhousut ja haalarihousut](/varusteet/parhaat-vapaalaskuhousut/)
-- [Untuva vai toppa: parhaat taukotakit](/varusteet/parhaat-taukotakit-vapaalaskuun/)
-- [Parhaat alus- ja välikerrokset vapaalaskuun](/varusteet/parhaat-alus-ja-valikerrokset/)
+- [Parhaat vapaalaskukuoritakit 2026](/vaatteet/parhaat-vapaalaskukuoritakit/)
+- [Parhaat vapaalaskuhousut ja haalarihousut](/vaatteet/parhaat-vapaalaskuhousut/)
+- [Untuva vai toppa: parhaat taukotakit](/vaatteet/parhaat-taukotakit-vapaalaskuun/)
+- [Parhaat alus- ja välikerrokset vapaalaskuun](/vaatteet/parhaat-alus-ja-valikerrokset/)
 
 ## Tietojen ajantasaisuus
 

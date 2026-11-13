@@ -1,7 +1,7 @@
 ---
 otsikko: Käsineet vapaalaskuun: miksi yksi pari ei riitä
 kuvaus: Rukkaset vai sormikkaat, nahkakäsineiden hoito, membraanin yleisin pettämistapa ja EN 511 -luokituksen kolme numeroa. Miksi vapaalaskussa kannetaan aina kahta paria.
-kategoria: varusteet
+kategoria: vaatteet
 paivays: 2026-10-10
 paivitetty: 2026-10-10
 avainsanat: [Vapaalasku, Varusteet, Pukeutuminen]
@@ -137,7 +137,7 @@ Hinnat suuntaa-antavasti: ohut sormikas 25–50 €, laadukas eristetty laskukä
 Kahden parin kokonaisuus on halvempi kuin yksi huippukäsine — ja selvästi toimivampi.
 
 
-Mallisuositukset ja varavuoret löydät vertailusta [Parhaat vapaalaskukäsineet ja -lapaset](/varusteet/parhaat-vapaalaskukasineet/).
+Mallisuositukset ja varavuoret löydät vertailusta [Parhaat vapaalaskukäsineet ja -lapaset](/vaatteet/parhaat-vapaalaskukasineet/).
 
 ---
 

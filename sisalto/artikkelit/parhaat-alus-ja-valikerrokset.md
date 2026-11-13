@@ -1,7 +1,7 @@
 ---
 otsikko: Parhaat alus- ja välikerrokset vapaalaskuun
 kuvaus: Aluskerros pitää ihon kuivana, välikerros pitää lämmön. Tässä parhaat aluspaidat, fleecet ja kevyttoppatakit vapaalaskuun hintoineen.
-kategoria: varusteet
+kategoria: vaatteet
 paivays: 2026-10-21
 paivitetty: 2026-10-21
 avainsanat: [Vapaalasku, Varusteet, Pukeutuminen]
@@ -17,7 +17,7 @@ luonnos: false
 - **Ylikuumeneville:** Arc'teryx Atom Vest
 :::
 
-Kuori pitää sään ulkona, mutta aluskerros ja välikerros ratkaisevat, onko sinulla nousun jälkeen kuiva ja lämmin olo. Tämä vertailu esittelee tuotteet. Kerrospukeutumisen periaate on selitetty oppaassa [Miten pukeutua vapaalaskuun](/varusteet/pukeutuminen-vapaalaskuun/), ja materiaalien erot oppaissa [Aluskerros vapaalaskuun](/varusteet/aluskerros-vapaalaskuun/) ja [Välikerros ja lämpötakki](/varusteet/valikerros-ja-lampotakki/).
+Kuori pitää sään ulkona, mutta aluskerros ja välikerros ratkaisevat, onko sinulla nousun jälkeen kuiva ja lämmin olo. Tämä vertailu esittelee tuotteet. Kerrospukeutumisen periaate on selitetty oppaassa [Miten pukeutua vapaalaskuun](/vaatteet/pukeutuminen-vapaalaskuun/), ja materiaalien erot oppaissa [Aluskerros vapaalaskuun](/vaatteet/aluskerros-vapaalaskuun/) ja [Välikerros ja lämpötakki](/vaatteet/valikerros-ja-lampotakki/).
 
 ## Aluskerros
 
@@ -165,14 +165,14 @@ teksti: Katso Covert
 
 ## Kokonaisuus
 
-Kun alus- ja välikerros ovat kunnossa, lisää päälle kuoritakki ja kuorihousut sekä repussa kulkeva lämpötakki. Vertailut: [parhaat vapaalaskukuoritakit](/varusteet/parhaat-vapaalaskukuoritakit/), [parhaat vapaalaskuhousut](/varusteet/parhaat-vapaalaskuhousut/) ja [parhaat taukotakit](/varusteet/parhaat-taukotakit-vapaalaskuun/).
+Kun alus- ja välikerros ovat kunnossa, lisää päälle kuoritakki ja kuorihousut sekä repussa kulkeva lämpötakki. Vertailut: [parhaat vapaalaskukuoritakit](/vaatteet/parhaat-vapaalaskukuoritakit/), [parhaat vapaalaskuhousut](/vaatteet/parhaat-vapaalaskuhousut/) ja [parhaat taukotakit](/vaatteet/parhaat-taukotakit-vapaalaskuun/).
 
 ## Lue myös
 
-- [Parhaat vapaalaskukuoritakit 2026](/varusteet/parhaat-vapaalaskukuoritakit/)
-- [Parhaat vapaalaskuhousut ja haalarihousut](/varusteet/parhaat-vapaalaskuhousut/)
-- [Untuva vai toppa: parhaat taukotakit](/varusteet/parhaat-taukotakit-vapaalaskuun/)
-- [Parhaat vapaalaskukäsineet](/varusteet/parhaat-vapaalaskukasineet/)
+- [Parhaat vapaalaskukuoritakit 2026](/vaatteet/parhaat-vapaalaskukuoritakit/)
+- [Parhaat vapaalaskuhousut ja haalarihousut](/vaatteet/parhaat-vapaalaskuhousut/)
+- [Untuva vai toppa: parhaat taukotakit](/vaatteet/parhaat-taukotakit-vapaalaskuun/)
+- [Parhaat vapaalaskukäsineet](/vaatteet/parhaat-vapaalaskukasineet/)
 
 ## Tietojen ajantasaisuus
 

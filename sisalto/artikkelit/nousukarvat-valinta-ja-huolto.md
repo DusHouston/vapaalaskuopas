@@ -99,7 +99,7 @@ Karvat maksavat 120–250 € ja kestävät oikein hoidettuna useita kausia. Ens
 Lähes kaikki nousukarvaongelmat kentällä palautuvat siihen yhteen asiaan.
 
 
-Kevyet kuoret ja nousukerrokset löydät vertailusta [Ski touring -vaatteet: kevyet kuoret ja kerrokset](/varusteet/ski-touring-vaatteet/).
+Kevyet kuoret ja nousukerrokset löydät vertailusta [Ski touring -vaatteet: kevyet kuoret ja kerrokset](/vaatteet/ski-touring-vaatteet/).
 
 ---
 

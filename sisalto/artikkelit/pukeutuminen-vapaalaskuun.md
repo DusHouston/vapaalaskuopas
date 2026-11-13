@@ -1,7 +1,7 @@
 ---
 otsikko: Miten pukeutua vapaalaskuun: aluskerros, nousu, tauot ja lasku
 kuvaus: Vapaalaskussa hiki tulee nousussa ja kylmä huipulla. Näin pukeudut jokaiseen vaiheeseen: aluskerros, nousuvaatteet, taukovaatteet ja laskuvaatteet. Mukana pakkauslista.
-kategoria: varusteet
+kategoria: vaatteet
 paivays: 2026-10-10
 paivitetty: 2026-10-18
 avainsanat: [Vapaalasku, Varusteet, Pukeutuminen]
@@ -61,7 +61,7 @@ Aluskerros on ainoa kerros, jota et riisu kesken päivän. Sen tehtävä on siir
 - **Sukat** merinoa tai sekoitetta, pitkävartiset. Yksi pari, ei kahta päällekkäin, jotta monot eivät purista
 - **Ei puuvillaista t-paitaa** aluskerroksen alla. Se kumoaa koko idean
 
-Lue lisää: [Aluskerros vapaalaskuun: merinovilla, synteettinen vai sekoite](/varusteet/aluskerros-vapaalaskuun/)
+Lue lisää: [Aluskerros vapaalaskuun: merinovilla, synteettinen vai sekoite](/vaatteet/aluskerros-vapaalaskuun/)
 
 ## 2. Nousuvaatteet: kevyemmin kuin luulet
 
@@ -80,7 +80,7 @@ Nousu on vaihe, jossa useimmat pukeutuvat liian lämpimästi.
 | Pää | Ohut pipo tai kaulaputki | Lippis tai kaulaputki |
 | Silmät | Aurinkolasit | Aurinkolasit |
 
-**Välikerros.** Nousuun sopii ristikkorakenteinen ohut fleece tai aktiivieristetakki, joka on suunniteltu käytettäväksi liikkeessä ja päästää vesihöyryn läpi. Paksu umpifleece hiostaa. Lue lisää: [Välikerros ja lämpötakki](/varusteet/valikerros-ja-lampotakki/)
+**Välikerros.** Nousuun sopii ristikkorakenteinen ohut fleece tai aktiivieristetakki, joka on suunniteltu käytettäväksi liikkeessä ja päästää vesihöyryn läpi. Paksu umpifleece hiostaa. Lue lisää: [Välikerros ja lämpötakki](/vaatteet/valikerros-ja-lampotakki/)
 
 **Säädä pienistä keinoista alkaen.** Ennen kuin riisut kerroksen, kokeile ensin kevyempiä keinoja:
 
@@ -110,7 +110,7 @@ Taukovaatteet ovat se osa, joka useimmiten unohtuu, ja se, jolla on eniten merki
 
 **Muut taukovaatteet repussa:**
 - **Kuiva pipo tai kaulaputki.** Nousussa käytetty on usein hikinen
-- **Toinen, lämmin käsinepari.** Nousukäsineet kastuvat, ja märät käsineet ovat paleltumariski. Lue lisää: [Käsineet vapaalaskuun: miksi yksi pari ei riitä](/varusteet/kasineet-vapaalaskuun/)
+- **Toinen, lämmin käsinepari.** Nousukäsineet kastuvat, ja märät käsineet ovat paleltumariski. Lue lisää: [Käsineet vapaalaskuun: miksi yksi pari ei riitä](/vaatteet/kasineet-vapaalaskuun/)
 - **Kuoritakki**, jos se ei jo ole päällä
 - **Varapaita** pidemmille retkille. Märän aluskerroksen vaihtaminen kuivaan pitkällä tauolla on iso asia
 
@@ -136,9 +136,9 @@ Laskussa et hikoile samalla tavalla kuin nousussa, mutta vauhti tuo viiman. Vaih
 | Pää | Kypärä, ohut pipo tai kaulaputki alla tarvittaessa |
 | Silmät | Laskettelulasit, linssi valon mukaan |
 
-**Kuori.** Vapaalaskuun sopii kolmikerroksinen kuoritakki, jossa on täysteipatut saumat, pitkät kainalovetoketjut ja kypärän päälle sopiva huppu. Lue lisää: [Vapaalaskutakki: mitä kuoritakin ominaisuuksista kannattaa katsoa](/varusteet/kuoritakki-vapaalaskuun/)
+**Kuori.** Vapaalaskuun sopii kolmikerroksinen kuoritakki, jossa on täysteipatut saumat, pitkät kainalovetoketjut ja kypärän päälle sopiva huppu. Lue lisää: [Vapaalaskutakki: mitä kuoritakin ominaisuuksista kannattaa katsoa](/vaatteet/kuoritakki-vapaalaskuun/)
 
-**Housut.** Lahkeiden vetoketjut, vahvikkeet lahkeiden sisäpuolella, kiinteät lumisuojat ja piipparitasku kiinnitysnauhalla. Lue lisää: [Kuorihousut vai haalari?](/varusteet/kuorihousut-vapaalaskuun/)
+**Housut.** Lahkeiden vetoketjut, vahvikkeet lahkeiden sisäpuolella, kiinteät lumisuojat ja piipparitasku kiinnitysnauhalla. Lue lisää: [Kuorihousut vai haalari?](/vaatteet/kuorihousut-vapaalaskuun/)
 
 **Kypärä.** EN 1077 -sertifioitu, mieluiten myös ASTM F2040. Sovita se omien lasiesi kanssa. Lue lisää: [Vapaalaskukypärä](/varusteet/kypara-vapaalaskuun/)
 
@@ -193,7 +193,7 @@ Vapaalaskussa pukeudutaan vaiheittain:
 Kaikki muu, kuten materiaalit, membraanit ja mm-luvut, on hienosäätöä tämän päälle.
 
 
-Mallisuositukset jokaiseen kerrokseen: [alus- ja välikerrokset](/varusteet/parhaat-alus-ja-valikerrokset/), [kuoritakit](/varusteet/parhaat-vapaalaskukuoritakit/), [kuorihousut](/varusteet/parhaat-vapaalaskuhousut/), [taukotakit](/varusteet/parhaat-taukotakit-vapaalaskuun/), [käsineet](/varusteet/parhaat-vapaalaskukasineet/) ja [ski touring -vaatteet](/varusteet/ski-touring-vaatteet/).
+Mallisuositukset jokaiseen kerrokseen: [alus- ja välikerrokset](/vaatteet/parhaat-alus-ja-valikerrokset/), [kuoritakit](/vaatteet/parhaat-vapaalaskukuoritakit/), [kuorihousut](/vaatteet/parhaat-vapaalaskuhousut/), [taukotakit](/vaatteet/parhaat-taukotakit-vapaalaskuun/), [käsineet](/vaatteet/parhaat-vapaalaskukasineet/) ja [ski touring -vaatteet](/vaatteet/ski-touring-vaatteet/).
 
 ---
 

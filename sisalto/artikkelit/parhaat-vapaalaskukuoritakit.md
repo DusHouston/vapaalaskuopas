@@ -1,7 +1,7 @@
 ---
 otsikko: Parhaat vapaalaskukuoritakit 2026: 14 takkia vertailussa
 kuvaus: Vertailimme 14 kuoritakkia vapaalaskuun: Norrøna, Arc'teryx, Peak Performance, Haglöfs, Halti ja muut. Plussat, miinukset ja hinnat.
-kategoria: varusteet
+kategoria: vaatteet
 paivays: 2026-10-21
 paivitetty: 2026-10-21
 avainsanat: [Vapaalasku, Varusteet, Vertailu]
@@ -19,7 +19,7 @@ luonnos: false
 
 Kuoritakki on vapaalaskijan tärkein vaate. Se pitää lumen, tuulen ja märän loitolla, ja sen alle kerrostetaan lämpöä sään mukaan. Tähän vertailuun valittiin 14 takkia kolmella perusteella: miten hyvin ne sopivat off-pisteelle, kuinka kestäviä ne ovat ja mitä niistä saa rahalle.
 
-Jos haluat ensin ymmärtää, mitä mm-luvut, kalvot ja kerrosrakenteet tarkoittavat, lue opas [Vapaalaskutakki: mitä kuoritakin ominaisuuksista oikeasti kannattaa katsoa](/varusteet/kuoritakki-vapaalaskuun/).
+Jos haluat ensin ymmärtää, mitä mm-luvut, kalvot ja kerrosrakenteet tarkoittavat, lue opas [Vapaalaskutakki: mitä kuoritakin ominaisuuksista oikeasti kannattaa katsoa](/vaatteet/kuoritakki-vapaalaskuun/).
 
 ## Pikavalinta
 
@@ -323,10 +323,10 @@ Sovita takki välikerroksen kanssa ja kypärä päässä. Kädet pitää saada p
 
 ## Lue myös
 
-- [Parhaat vapaalaskuhousut ja haalarihousut](/varusteet/parhaat-vapaalaskuhousut/)
-- [Parhaat alus- ja välikerrokset vapaalaskuun](/varusteet/parhaat-alus-ja-valikerrokset/)
-- [Untuva vai toppa: parhaat taukotakit](/varusteet/parhaat-taukotakit-vapaalaskuun/)
-- [Ski touring -vaatteet: kevyet kuoret ja kerrokset](/varusteet/ski-touring-vaatteet/)
+- [Parhaat vapaalaskuhousut ja haalarihousut](/vaatteet/parhaat-vapaalaskuhousut/)
+- [Parhaat alus- ja välikerrokset vapaalaskuun](/vaatteet/parhaat-alus-ja-valikerrokset/)
+- [Untuva vai toppa: parhaat taukotakit](/vaatteet/parhaat-taukotakit-vapaalaskuun/)
+- [Ski touring -vaatteet: kevyet kuoret ja kerrokset](/vaatteet/ski-touring-vaatteet/)
 
 ## Tietojen ajantasaisuus
 

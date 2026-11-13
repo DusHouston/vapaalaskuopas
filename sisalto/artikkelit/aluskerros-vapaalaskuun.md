@@ -1,7 +1,7 @@
 ---
 otsikko: Aluskerros vapaalaskuun: merinovilla, synteettinen vai sekoite
 kuvaus: Villan ja synteettisen todellinen ero, grammapainot, mikronit ja kutina, hajunmuodostus ja miksi puhdas merino kuluu puhki. Mitattuja lukuja markkinointipuheen tilalle.
-kategoria: varusteet
+kategoria: vaatteet
 paivays: 2026-10-10
 paivitetty: 2026-10-10
 avainsanat: [Vapaalasku, Varusteet, Pukeutuminen]
@@ -115,7 +115,7 @@ Käytännön johtopäätös: jos merino kutittaa, kokeile hienompaa laatua tai n
 
 ## Puuvilla ja autolla vaihdettavat vaatteet
 
-Puuvilla ei kuulu aluskerrokseen. Perustelut käsitellään tarkemmin artikkelissa [Pukeutuminen vapaalaskuun](/varusteet/pukeutuminen-vapaalaskuun/), mutta lyhyesti: puuvilla imee eniten vettä ja luovuttaa sen hitaimmin, ja märkä vaate moninkertaistaa lämpöhäviön.
+Puuvilla ei kuulu aluskerrokseen. Perustelut käsitellään tarkemmin artikkelissa [Pukeutuminen vapaalaskuun](/vaatteet/pukeutuminen-vapaalaskuun/), mutta lyhyesti: puuvilla imee eniten vettä ja luovuttaa sen hitaimmin, ja märkä vaate moninkertaistaa lämpöhäviön.
 
 Tämä koskee myös niitä pieniä asioita, jotka jäävät huomaamatta: puuvillainen t-paita villapaidan alla kumoaa koko ajatuksen.
 
@@ -134,7 +134,7 @@ Kolme asiaa, jotka oikeasti merkitsevät:
 Hintahaarukka on suuntaa-antavasti 40–60 € synteettiselle paidalle ja 70–120 € merinolle tai sekoitteelle. Se on vapaalaskuvarusteiden halvin osa ja vaikuttaa päivän mukavuuteen enemmän kuin suurin osa kalliimmista hankinnoista.
 
 
-Mallisuositukset löydät vertailusta [Parhaat alus- ja välikerrokset vapaalaskuun](/varusteet/parhaat-alus-ja-valikerrokset/).
+Mallisuositukset löydät vertailusta [Parhaat alus- ja välikerrokset vapaalaskuun](/vaatteet/parhaat-alus-ja-valikerrokset/).
 
 ---
 

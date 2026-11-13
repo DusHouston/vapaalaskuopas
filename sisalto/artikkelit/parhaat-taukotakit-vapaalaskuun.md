@@ -1,7 +1,7 @@
 ---
 otsikko: Untuva vai toppa: parhaat taukotakit vapaalaskuun
 kuvaus: Taukotakki puetaan kuoren päälle heti pysähtyessä. Untuvan ja topan erot sekä parhaat taukotakit vapaalaskuun hintoineen.
-kategoria: varusteet
+kategoria: vaatteet
 paivays: 2026-10-21
 paivitetty: 2026-10-21
 avainsanat: [Vapaalasku, Varusteet, Vertailu]
@@ -17,7 +17,7 @@ luonnos: false
 - Taukotakki puetaan **kuoren päälle**, ei alle
 :::
 
-Nousussa hikoilet, ja kun pysähdyt tuuliselle harjanteelle, kostea aluskerros jäähdyttää nopeasti. Taukotakki puetaan kuoren päälle heti pysähtyessä, ja se riisutaan vasta, kun lähdet taas liikkeelle. Eristeiden toimintaa, clo-lukuja ja fill poweria käsitellään tarkemmin oppaassa [Välikerros ja lämpötakki](/varusteet/valikerros-ja-lampotakki/).
+Nousussa hikoilet, ja kun pysähdyt tuuliselle harjanteelle, kostea aluskerros jäähdyttää nopeasti. Taukotakki puetaan kuoren päälle heti pysähtyessä, ja se riisutaan vasta, kun lähdet taas liikkeelle. Eristeiden toimintaa, clo-lukuja ja fill poweria käsitellään tarkemmin oppaassa [Välikerros ja lämpötakki](/vaatteet/valikerros-ja-lampotakki/).
 
 ## Untuva vai toppa
 
@@ -214,9 +214,9 @@ Untuvalle tarkoitetulla pesuaineella hienopesuohjelmassa. Kuivaa rumpukuivaajass
 
 ## Lue myös
 
-- [Parhaat alus- ja välikerrokset vapaalaskuun](/varusteet/parhaat-alus-ja-valikerrokset/)
-- [Parhaat vapaalaskukuoritakit 2026](/varusteet/parhaat-vapaalaskukuoritakit/)
-- [Parhaat vapaalaskukäsineet](/varusteet/parhaat-vapaalaskukasineet/)
+- [Parhaat alus- ja välikerrokset vapaalaskuun](/vaatteet/parhaat-alus-ja-valikerrokset/)
+- [Parhaat vapaalaskukuoritakit 2026](/vaatteet/parhaat-vapaalaskukuoritakit/)
+- [Parhaat vapaalaskukäsineet](/vaatteet/parhaat-vapaalaskukasineet/)
 
 ## Tietojen ajantasaisuus
 

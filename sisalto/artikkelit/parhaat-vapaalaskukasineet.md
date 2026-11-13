@@ -1,7 +1,7 @@
 ---
 otsikko: Parhaat vapaalaskukäsineet ja -lapaset 2026
 kuvaus: Hestra Army Leather Heli Ski, lapaset, nousukäsineet, varavuoret ja nahan hoito. Parhaat vapaalaskukäsineet plussineen, miinuksineen ja hintoineen.
-kategoria: varusteet
+kategoria: vaatteet
 paivays: 2026-10-21
 paivitetty: 2026-10-21
 avainsanat: [Vapaalasku, Varusteet, Vertailu]
@@ -17,7 +17,7 @@ luonnos: false
 - **Nousuun:** Arc'teryx Venta, tuulenpitävä ja hengittävä
 :::
 
-Kylmät tai märät kädet lopettavat vapaalaskupäivän nopeammin kuin mikään muu. Siksi vapaalaskussa kannetaan kahta paria: ohuet nousuun ja lämpimät laskuun. Miksi näin, ja mitä membraaneista ja EN 511 -luokituksesta kannattaa tietää, kerrotaan oppaassa [Käsineet vapaalaskuun: miksi yksi pari ei riitä](/varusteet/kasineet-vapaalaskuun/).
+Kylmät tai märät kädet lopettavat vapaalaskupäivän nopeammin kuin mikään muu. Siksi vapaalaskussa kannetaan kahta paria: ohuet nousuun ja lämpimät laskuun. Miksi näin, ja mitä membraaneista ja EN 511 -luokituksesta kannattaa tietää, kerrotaan oppaassa [Käsineet vapaalaskuun: miksi yksi pari ei riitä](/vaatteet/kasineet-vapaalaskuun/).
 
 ## Pikavalinta
 
@@ -196,9 +196,9 @@ teksti: Katso Leather Lotion
 
 ## Lue myös
 
-- [Parhaat vapaalaskukuoritakit 2026](/varusteet/parhaat-vapaalaskukuoritakit/)
-- [Untuva vai toppa: parhaat taukotakit](/varusteet/parhaat-taukotakit-vapaalaskuun/)
-- [Parhaat alus- ja välikerrokset vapaalaskuun](/varusteet/parhaat-alus-ja-valikerrokset/)
+- [Parhaat vapaalaskukuoritakit 2026](/vaatteet/parhaat-vapaalaskukuoritakit/)
+- [Untuva vai toppa: parhaat taukotakit](/vaatteet/parhaat-taukotakit-vapaalaskuun/)
+- [Parhaat alus- ja välikerrokset vapaalaskuun](/vaatteet/parhaat-alus-ja-valikerrokset/)
 
 ## Tietojen ajantasaisuus
 

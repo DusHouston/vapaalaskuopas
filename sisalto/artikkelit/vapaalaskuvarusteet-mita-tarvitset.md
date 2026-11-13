@@ -138,16 +138,16 @@ Tämä opas käsittelee turvavarusteita, joiden tehtävä on pelastaa henki lumi
 
 Vaatetuksen kokonaisuus on käsitelty erikseen:
 
-- [Pukeutuminen vapaalaskuun: kerrospukeutuminen joka kestää sekä nousun että laskun](/varusteet/pukeutuminen-vapaalaskuun/) — aloita tästä
-- [Vapaalaskutakki: mitä kuoritakin ominaisuuksista oikeasti kannattaa katsoa](/varusteet/kuoritakki-vapaalaskuun/)
-- [Kuorihousut vai haalari?](/varusteet/kuorihousut-vapaalaskuun/)
-- [Aluskerros: merinovilla, synteettinen vai sekoite](/varusteet/aluskerros-vapaalaskuun/)
-- [Välikerros ja lämpötakki](/varusteet/valikerros-ja-lampotakki/)
+- [Pukeutuminen vapaalaskuun: kerrospukeutuminen joka kestää sekä nousun että laskun](/vaatteet/pukeutuminen-vapaalaskuun/) — aloita tästä
+- [Vapaalaskutakki: mitä kuoritakin ominaisuuksista oikeasti kannattaa katsoa](/vaatteet/kuoritakki-vapaalaskuun/)
+- [Kuorihousut vai haalari?](/vaatteet/kuorihousut-vapaalaskuun/)
+- [Aluskerros: merinovilla, synteettinen vai sekoite](/vaatteet/aluskerros-vapaalaskuun/)
+- [Välikerros ja lämpötakki](/vaatteet/valikerros-ja-lampotakki/)
 - [Laskettelulasit vapaalaskuun](/varusteet/laskettelulasit-vapaalaskuun/)
-- [Käsineet vapaalaskuun](/varusteet/kasineet-vapaalaskuun/)
+- [Käsineet vapaalaskuun](/vaatteet/kasineet-vapaalaskuun/)
 - [Vapaalaskukypärä: EN 1077 ja se mitä standardit eivät testaa](/varusteet/kypara-vapaalaskuun/)
 
-Valmiit mallisuositukset: [kuoritakit](/varusteet/parhaat-vapaalaskukuoritakit/), [kuorihousut](/varusteet/parhaat-vapaalaskuhousut/), [alus- ja välikerrokset](/varusteet/parhaat-alus-ja-valikerrokset/), [taukotakit](/varusteet/parhaat-taukotakit-vapaalaskuun/), [käsineet](/varusteet/parhaat-vapaalaskukasineet/) ja [ski touring -vaatteet](/varusteet/ski-touring-vaatteet/).
+Valmiit mallisuositukset: [kuoritakit](/vaatteet/parhaat-vapaalaskukuoritakit/), [kuorihousut](/vaatteet/parhaat-vapaalaskuhousut/), [alus- ja välikerrokset](/vaatteet/parhaat-alus-ja-valikerrokset/), [taukotakit](/vaatteet/parhaat-taukotakit-vapaalaskuun/), [käsineet](/vaatteet/parhaat-vapaalaskukasineet/) ja [ski touring -vaatteet](/vaatteet/ski-touring-vaatteet/).
 
 Jos vaatetus on jo kunnossa rinnelaskusta, kaksi asiaa kannattaa silti tarkistaa ennen ensimmäistä nousua: onko takissa kainalovetoketjut ja mahtuuko lämpötakki kuoren päälle. Ne ovat ne kaksi kohtaa, joissa rinnevarustus tyypillisesti pettää vapaalaskussa.
 
