@@ -341,8 +341,9 @@ dialog::backdrop { background: rgba(16,30,52,.45); backdrop-filter: blur(2px); }
     -webkit-backdrop-filter: saturate(180%) blur(14px);
     border-top: 1px solid var(--viiva);
   }
-  .alanavi a {
+  .alanavi a, .alanavi button {
     display: flex;
+    border: 0; background: none; font-family: inherit; cursor: pointer; padding: 0;
     flex-direction: column;
     align-items: center;
     justify-content: center;
@@ -354,8 +355,8 @@ dialog::backdrop { background: rgba(16,30,52,.45); backdrop-filter: blur(2px); }
     font-weight: 700;
     letter-spacing: .01em;
   }
-  .alanavi a span { max-width: 100%; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; padding-inline: 2px; }
-  .alanavi a svg { width: 23px; height: 23px; }
+  .alanavi button span, .alanavi a span { max-width: 100%; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; padding-inline: 2px; }
+  .alanavi button svg, .alanavi a svg { width: 23px; height: 23px; }
   .alanavi a.aktiivinen { color: var(--navy); }
   .alanavi a:active { background: var(--pinta-2); }
 
@@ -904,7 +905,9 @@ dialog::backdrop { background: rgba(16,30,52,.45); backdrop-filter: blur(2px); }
   border-bottom: 1px solid rgba(255,255,255,.18);
 }
 @media (min-width: 600px) { .alapalkki-osiot { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
-@media (min-width: 980px) { .alapalkki-osiot { grid-template-columns: minmax(0, 1.5fr) repeat(3, minmax(0, 1fr)); } }
+@media (min-width: 980px) { .alapalkki-osiot { grid-template-columns: minmax(0, 1.4fr) repeat(4, minmax(0, 1fr)); } }
+.alapalkki h2 a { color: inherit; text-decoration: none; }
+.alapalkki h2 a:hover { text-decoration: underline; text-underline-offset: 3px; }
 .alapalkki .logo, .alapalkki .logo svg { color: #fff; }
 .alapalkki h2 { color: #fff; font-size: .78rem; letter-spacing: .1em; text-transform: uppercase; margin: 0 0 12px; }
 .alapalkki p { margin: 12px 0 0; line-height: 1.6; max-width: 46ch; }
@@ -1066,3 +1069,68 @@ dialog::backdrop { background: rgba(16,30,52,.45); backdrop-filter: blur(2px); }
   .osio-otsikko .silmays { display: none; }
   .kansi-haku kbd { display: none; }
 }
+
+
+/* ---------- Etusivun pääpolut (Vaatteet, Varusteet, Oppaat) ---------- */
+
+.polut {
+  display: grid; gap: 16px; grid-template-columns: minmax(0, 1fr);
+  margin-top: 32px;
+}
+@media (min-width: 760px) { .polut { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 20px; margin-top: 44px; } }
+.polku {
+  display: flex; flex-direction: column; min-width: 0;
+  border: 1px solid var(--viiva); border-radius: 12px; overflow: hidden; background: #fff;
+  transition: border-color .15s, box-shadow .15s;
+}
+.polku:hover { border-color: var(--viiva-2); box-shadow: var(--varjo); }
+.polku-yla { display: block; color: inherit; text-decoration: none; }
+.polku-yla:hover { color: inherit; }
+.polku-yla:hover h2 { color: var(--navy-2); }
+.polku-kuvat {
+  display: grid; grid-template-columns: repeat(3, 1fr);
+  height: 150px; padding: 14px 14px 6px; background: #fff; border-bottom: 1px solid var(--viiva);
+}
+.polku-kuvat img { width: 100%; height: 100%; object-fit: contain; }
+.polku-valokuva { display: block; height: 150px; border-bottom: 1px solid var(--viiva); overflow: hidden; }
+.polku-valokuva img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.polku-otsikko { display: flex; align-items: center; gap: 10px; padding: 18px 20px 0; }
+.polku-ikoni {
+  display: inline-flex; align-items: center; justify-content: center; flex: none;
+  width: 38px; height: 38px; border-radius: 10px; background: var(--pinta-2); color: var(--navy);
+}
+.polku h2 { font-size: 1.45rem; color: var(--navy); }
+.polku-yla p { margin: 8px 20px 0; color: var(--muste-2); font-size: .95rem; line-height: 1.45; }
+.polku-linkit { margin: 12px 20px 0; padding: 0; list-style: none; }
+.polku-linkit li + li { border-top: 1px solid var(--viiva); }
+.polku-linkit a {
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 10px 0; color: var(--navy); font-weight: 650; text-decoration: none;
+}
+.polku-linkit a::after { content: "›"; color: var(--muste-3); font-size: 1.2rem; line-height: 1; transition: transform .15s; }
+.polku-linkit a:hover { color: var(--navy-2); }
+.polku-linkit a:hover::after { transform: translateX(3px); color: var(--navy); }
+.polku-kaikki {
+  display: inline-flex; align-items: center; gap: 6px;
+  margin: auto 20px 0; padding: 14px 0 18px;
+  font-family: var(--otsikko); font-weight: 700; font-size: .92rem; color: var(--navy); text-decoration: none;
+}
+.polku-kaikki svg { transition: transform .15s; }
+.polku-kaikki:hover svg { transform: translateX(3px); }
+
+/* ---------- Megavalikon ikonit ja otsikkolinkit ---------- */
+
+.mega-ikoni {
+  display: inline-flex; align-items: center; justify-content: center; flex: none;
+  width: 36px; height: 36px; border: 1px solid var(--viiva); border-radius: var(--r);
+  background: var(--pinta-2); color: var(--muste-3);
+}
+.mega-ryhma h3 a { padding: 0; color: inherit; font-weight: inherit; font-size: inherit; display: inline; }
+.mega-ryhma h3 a:hover { color: var(--navy); text-decoration: underline; text-underline-offset: 3px; }
+.hub-otsikko h2 a { color: inherit; text-decoration: none; }
+.hub-otsikko h2 a:hover { color: var(--navy-2); text-decoration: underline; text-underline-offset: 4px; }
+.takaisin { margin: 8px 0 40px; }
+.takaisin a { font-family: var(--otsikko); font-weight: 700; color: var(--navy); text-decoration: none; }
+.valikko-linkki { font-size: 1rem; }
+
+@media (max-width: 759px) { .polku-kuvat, .polku-valokuva { height: 110px; } }
